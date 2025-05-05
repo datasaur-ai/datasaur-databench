@@ -1,0 +1,427 @@
+"prompt","expected completion","source_file"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the expiration date of this contract?","Based solely on the clause you’ve provided:
+
+1. Term and Expiration  
+   - “This agreement shall begin upon the date of its execution by MA and acceptance in writing by Company and shall remain in effect until the end of the current calendar year…” (¶ —).  
+   - Thus, the initial expiration date is the last day of the calendar year in which the agreement is executed (i.e., December 31 of that year).
+
+2. Renewal Provision  
+   - “…and shall be automatically renewed for successive one (1) year periods unless otherwise terminated according to the cancellation or termination provisions contained in paragraph 18 of this Agreement.” (¶ —).  
+   - Each renewal likewise expires on December 31 of the applicable year, unless earlier terminated per ¶ 18.
+
+3. Missing Information  
+   - The exact calendar year cannot be determined from the excerpt alone, since the actual execution date is not provided. Therefore, the precise expiration date (e.g., “December 31, 2024”) is not ascertainable without knowing when the agreement was signed.","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the renewal term for this contract?","According to the Agreement’s term clause:  
+- After its initial term (through the end of the current calendar year), the contract “shall be automatically renewed for successive one (1) year periods” unless terminated per paragraph 18.  
+  • Source: “This agreement … shall remain in effect until the end of the current calendar year and shall be automatically renewed for successive one (1) year periods …” (Term clause).","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the notice period required to terminate the renewal?","The Agreement provides that either party may terminate it at the expiration of its initial term or any renewal term “upon thirty (30) days written notice to the other party.”  (see “Termination” clause)","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the governing law for this contract?","The Agreement is governed by the laws of the State of Nevada.  
+• “This Agreement … shall be governed by and construed in accordance with the laws thereof [Nevada], which laws shall prevail in the event of any conflict.”","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there an anti-assignment clause in this contract?","Yes. The Agreement contains an anti‑assignment clause.  Specifically, under the “Assignment” provision:  
+
+‑ “MA may not assign, sell, lease or otherwise transfer in whole or in part any of the rights granted pursuant to this Agreement without prior written approval of Company.”  
+
+This prohibits the Marketing Affiliate (MA) from transferring its rights under the Agreement except with the Company’s written consent.","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there a minimum commitment required under this contract?","Yes. Under the “Initial Order Commitment” provision, MA (Mount Knowledge Holdings Inc.) must purchase a minimum of 100 Units in aggregate within the Territory during the first six months of the term of the Agreement. (See “INITIAL ORDER COMMITMENT” section.)","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What licenses are granted under this contract?","Below is a summary of the licenses and rights granted to MA under the Marketing Affiliate Agreement. All citations refer to the numbered paragraphs in the provided context.
+
+1. License to advertise, market and sell the Technology  
+   - MA may “advertise, market and sell … the Technology listed in Schedule A of this Agreement”  
+   - Scope: to corporate users, government agencies and educational facilities (“Clients”)  
+   - Usage restriction: for Clients’ internal language‑learning, soft‑skills and communication purposes only; no remarketing, redistribution or multi‑user data‑center deployment without prior written consent (¶1).
+
+2. License to sell and bundle Technology Maintenance  
+   - MA may “sell and/or bundle Technology Maintenance for the Technology” (¶1).
+
+3. License to provide first‑line technical support and implementation services  
+   - MA may “provide first line technical support and implementation services for the Technology”  
+   - Territory and criteria: as set out in Schedule A, provided MA meets the delivery criteria in Schedule A (¶1).
+
+4. License to use Company branding in connection with the Technology  
+   - MA has the right “to use Company and/or Company trade names, trademarks or service marks on Technology or in advertising or promotion relating directly to these products,” during the term of the Agreement (¶2).
+
+5. Resale territory  
+   - MA is “authorized to resell Technology within the following territory … Worldwide” (¶3).
+
+No other licenses are described in the provided text.","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What are the audit rights under this contract?","Based solely on the clause you’ve provided, the Agreement grants the Company the following audit rights:  
+
+1. Recordkeeping obligation  
+   • MA (the Marketing Affiliate) must “keep accurate records of the sales of the Technology and Maintenance, including Client Registration Cards.”  
+
+2. Inspection right  
+   • MA must “make these records available for review by a representative of Company”  
+
+3. Timing of review  
+   • Such records must be produced “within ten (10) business days following the end of each month.”  
+
+No other audit or inspection provisions are stated in the excerpt provided. If there are additional audit-related clauses elsewhere in the Agreement, they have not been included in the context you supplied.","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; Is there a cap on liability under this contract?","Based solely on the provided excerpts:
+
+1. Liability Cap  
+   - “Company’s liability shall not exceed the fees that MA has paid under this Agreement.”  
+     (Context, ¶1)
+
+2. Related Limitations  
+   - All incidental, special or consequential damages are disclaimed, even if foreseeable or advised. (Context, ¶1)  
+   - The foregoing fee‑based cap also constitutes the entire liability for any IP‑infringement claims. (Context, ¶2)  
+   - For breach of the specified warranty, Company’s sole remedies are repair or replacement (with a 90‑day written notice requirement). (Context, ¶3)  
+   - In no event shall Company be liable for tort or contract damages or indirect, special, general, incidental or consequential damages (e.g., lost profits, goodwill). (Context, ¶4)
+
+Conclusion  
+Yes. The Agreement caps Company’s monetary liability at the total fees paid by the Marketing Affiliate (MA) under this Agreement.","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Marketing Affiliate Agreement between Birch First Global Investments Inc. and Mount Knowledge Holdings Inc.; What is the duration of any warranties provided in this contract?","The Agreement’s sole warranty period is a 90-day window measured from the date of shipment.  
+
+•  Section (A) Warranty Remedy: Company will correct or replace non-conforming Technology (per its then-current and published specifications).  
+•  Warranty Claim Deadline: “Any claim for breach of warranty under Subparagraph (A) hereof must be made in writing within (90) days from date of shipment.” (Subparagraph (A))","cuad/CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the expiration date of this contract?","The Agreement’s Initial Term “shall terminate on June 30, 2010.”  
+• Citation: Term of Agreement (the “Initial Term”) section.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the renewal term for this contract?","The Agreement provides that, “At Rogers’ option, this Agreement shall renew for a subsequent term of two (2) years on the terms and conditions herein (the ‘Renewal Term’).”  
+• Renewal Term: two (2) years.  
+• Source: “At Rogers’ option…” clause of the Agreement.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the notice period required to terminate the renewal?","The Agreement provides that, upon expiry of the Initial or Renewal Term and in the absence of a new VOD distribution agreement, either party may terminate the extended‐on‐expiry term by giving sixty (60) days’ prior written notice.  
+   • “each of Licensor and Rogers shall have the right, on sixty (60) days’ prior written notice, to terminate this Agreement, as so extended.” (Section on post‐expiry continuation)","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What is the governing law for this contract?","The Agreement’s Governing-Law clause states that it “shall be governed by laws of the Province of Ontario and the federal laws of Canada applicable therein.” (See “This Agreement shall be governed by laws of the Province of Ontario and the federal laws of Canada applicable therein.”)","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a most favored nation clause in this contract?","Yes. The Agreement contains a most-favoured-nation (“MFN”) clause in two respects:
+
+1.   Earlier Availability Date MFN (Paragraph 1 of the Context)  
+     – If Licensor grants another U.S. VOD or PPV service provider the right to distribute a Licensed Program on an earlier availability date, Licensor must grant Rogers the same earlier date on the same terms.
+
+2.   More-Favourable-Terms MFN (Paragraph 2 of the Context)  
+     – If Licensor enters into any agreement (including side letters or informal arrangements) with a third party for VOD distribution in the U.S. or the Territory on terms more favourable than those in this Agreement (e.g., license fees, royalty payments, marketing support), then Rogers may incorporate or substitute those more favourable terms into this Agreement, retroactive to the date those terms were first granted to the third party.  
+     – Licensor must also deliver, by February 28 each year, a sworn statement or auditor’s certificate confirming whether any such more-favourable agreements were entered into, and if so, identifying the effective date and the specific terms (Context, second paragraph).
+
+These provisions together constitute an MFN regime protecting Rogers as to both timing and economic terms.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Can this contract be terminated for convenience, and under what conditions?","Based solely on the clause you’ve provided:
+
+1. Termination for Convenience  
+   - “Notwithstanding any other provision of this Agreement, Rogers may terminate this Agreement, at any time, upon sixty (60) days’ prior written notice to Licensor.”  
+   - This language establishes that Rogers has an unfettered right to terminate the agreement for convenience.
+
+2. Conditions of Termination  
+   - Party entitled: Rogers Cable Communications Inc. (“Rogers”).  
+   - Notice period: 60 days’ prior written notice.  
+   - No further conditions or mutual-termination rights are specified in the provided text.
+
+3. Missing Information  
+   - The clause does not address whether EuroMedia Holdings Corp. (the Licensor) may terminate for convenience.  
+   - No additional obligations (e.g., payment on early termination) or carve-outs (e.g., ongoing royalty payments) are mentioned here.
+
+Conclusion  
+- Rogers may unilaterally terminate this agreement for convenience at any time, provided it gives 60 days’ written notice to Licensor. There is no indication in the provided clause that Licensor has a corresponding right.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there an anti-assignment clause in this contract?","Yes. The contract contains an anti‑assignment clause, which provides:
+
+1. General prohibition  
+   – “This Agreement may not be assigned, sold or transferred without the prior written consent of the other party.”
+
+2. Permitted exceptions (no consent required for):  
+   a. Any person that directly or indirectly controls, is controlled by or is under common control with Rogers.  
+   b. A purchaser of all or substantially all of the assets used in connection with the ROD Service.
+
+3. Change‑of‑control clarification  
+   – “A change of control of Rogers shall not be considered an assignment of this Agreement.”
+
+4. Invalidity of unauthorized transfers  
+   – “Any purported assignment, sale, or transfer in contravention of this Section shall be null and void.”
+
+All of the above appears in the single “Assignment” section of the Agreement.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Does this contract include any revenue or profit-sharing arrangements?","Based solely on the provided excerpts, the Agreement contains revenue‑sharing but no explicit profit‑sharing provisions.  
+
+1. Revenue‑sharing arrangements  
+   a. Rogers → Licensor  
+      – “Rogers shall pay to Licensor a fee (the ‘License Fee’), which shall be equal to fifty (50)% of Retail Revenues.”  
+        • Source: first paragraph.  
+   b. Licensor → Rogers  
+      – “Licensor agrees to pay to Rogers an amount which shall be equal to ten (10)% of License Fees, calculated on a rolling basis … payable monthly.”  
+        • Source: second paragraph.  
+
+2. Cost‑sharing/reimbursements  
+   a. Production Fund Commitment  
+      – Licensor reimburses Rogers for 50% of Rogers’s statutorily‑required contributions to a Canadian program production fund in respect of Licensed Programs.  
+        • Source: third paragraph.  
+   b. Copyright Royalties  
+      – Licensor reimburses Rogers for 50% of any copyright royalties actually paid by Rogers.  
+        • Source: fourth paragraph.  
+
+3. Profit‑sharing  
+   – The excerpts do not mention any arrangement based on net profits or profit‑sharing.  
+
+Conclusion:  
+• Yes, there are revenue‑sharing mechanisms (50% of Retail Revenues to Licensor; 10% of License Fees back to Rogers) plus 50% cost‑reimbursements for production‑fund contributions and royalties.  
+• No profit‑sharing formula is stated in the provided context.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a minimum commitment required under this contract?","Based solely on the “Promotional Program” clause you’ve provided:
+
+1.  Minimum Content Availability by Licensor  
+    – Section (Promotional Programs): “Licensor shall make available to Rogers, on a free trial basis and at no cost to Rogers, not less than ten (10) Licensed Programs at all times during the Term….”
+
+2.  No Minimum Commitment by Rogers Stated  
+    – The clause imposes a minimum‐content obligation on EuroMedia (the Licensor), not on Rogers.  
+    – There is no language in the provided text requiring Rogers to license, purchase or otherwise commit to any minimum number of Program titles or payment.
+
+Conclusion: The contract excerpt sets a minimum availability of ten Promotional Programs (section on Promotional Programs), but it does not establish any minimum commitment requirement on Rogers. If any financial or volume commitments exist elsewhere in the Agreement, they are not included in the provided context.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What licenses are granted under this contract?","The Agreement grants Rogers the following non‑exclusive licenses (see Context ¶¶1–2):  
+
+1. Non‑exclusive VOD Distribution & Exhibition License  
+   - Rogers may distribute and exhibit in Canada (“Territory”) all “Licensed Programs” – i.e., the entertainment programming for which Licensor owns or controls VOD distribution/exhibition rights – to residential subscribers of Rogers’ digital cable television service on a Video‑on‑Demand basis. (Context ¶1)  
+
+2. License Period Right  
+   - For each Licensed Program, Rogers may make it available on a VOD basis for 90 consecutive days (or a longer period if mutually agreed). (Context ¶2)  
+
+No other licenses are specified in the provided excerpts.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Does this contract include an unlimited or all-you-can-eat license?","Based solely on the single clause you’ve provided, the Agreement does grant what is commonly understood as an “all‑you‑can‑eat” or unlimited‐viewing license—subject only to the defined Viewing Period.  
+
+Key point from the context:  
+• “Multiple viewings of the Licensed Program shall be permitted during the Viewing Period for no additional fee and all such viewings shall be considered a single exhibition of the Licensed Program for the purposes of calculating License Fees hereunder.”  
+
+Interpretation:  
+1. Unlimited viewings:  The Licensee may view the program any number of times during the Viewing Period.  
+2. Single exhibition treatment:  No matter how many times it is viewed, it counts as only one “exhibition” for fee purposes.  
+3. No per‑viewing charges:  There is no additional fee tied to repeat viewings within the Viewing Period.  
+
+Conclusion:  
+Yes. Within the defined Viewing Period, the contract operates as an unlimited (“all‑you‑can‑eat”) license, since multiple viewings incur no extra fees and are aggregated into a single exhibition for licensing‑fee calculation.  
+
+Note: If you need to know whether there are any other constraints (e.g., device limits, geographic limits, blackout windows), those would have to be confirmed by reviewing additional provisions of the Agreement, which are not included in your excerpt.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; What are the audit rights under this contract?","Under the Agreement’s audit-rights provision:  
+1. Who may audit:  
+   - Rogers Cable Communications Inc. and its authorized representatives.  
+
+2. Scope of the audit:  
+   - Inspection and/or audit of EuroMedia Holdings Corp.’s books and records.  
+   - Purpose: to confirm compliance with Licensor’s obligations under the contract.  
+
+3. Timing and notice:  
+   - Must give EuroMedia reasonable prior written notice.  
+   - Audits are to occur only during EuroMedia’s regular business hours.  
+
+4. Duration of right:  
+   - During the Term of the Agreement.  
+   - For twelve (12) months after the Term expires.  
+
+Citation: “During the Term, and for a period of twelve (12) months thereafter, Rogers (and its representatives) shall have the right, upon reasonable prior written notice to Licensor, and during regular business hours, to inspect and/or audit Licensor’s books and records to confirm compliance with Licensor’s obligations under this Section.”","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there uncapped liability under this contract?","Based solely on the excerpt you’ve provided:
+
+1. Limitation of Liability Clause (as quoted)  
+   “Except with respect to any claim or liability arising from an infringement of any third party intellectual property right, in no event shall either party be liable for any special, indirect, consequential, punitive or incidental damages of any kind.”  
+
+2. Uncapped Liability for IP-Infringement  
+   • Because the Limitation of Liability applies “except with respect to any claim or liability arising from an infringement of any third party intellectual property right,” liability for third-party IP infringement is not subject to those damage-type limitations.  
+   • In other words, any claim or liability based on IP infringement remains fully “uncapped” by this provision.
+
+3. Other Liabilities  
+   • All other categories of damages (special, indirect, consequential, punitive or incidental) are expressly disclaimed and thus capped at zero for each party.  
+   • The excerpt does not address whether there is a separate monetary cap on direct damages, nor does it indicate any other exceptions.
+
+4. Insufficiency of Information  
+   • No information is provided about a dollar-value cap on direct damages or any broader liability caps.  
+   • To determine whether other liabilities (e.g. direct damages) are capped, or whether additional exceptions apply, one would need to review the full Limitation of Liability section and any related provisions.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Video-on-Demand Content License Agreement between Rogers Cable Communications Inc. and EuroMedia Holdings Corp.; Is there a cap on liability under this contract?","Based solely on the excerpt you’ve provided, there is no monetary “cap” on liability; rather, the Agreement simply excludes certain categories of damages.  
+
+•  Exclusion of Damages (no section number supplied in your excerpt):  
+   “Except with respect to any claim or liability arising from an infringement of any third party intellectual property right, in no event shall either party be liable for any special, indirect, consequential, punitive or incidental damages of any kind.”  
+
+•  No Monetary Limit Stated:  
+  – The clause removes liability for certain types of damages (special, indirect, consequential, punitive or incidental).  
+  – It does not set a maximum dollar amount (“cap”) on the parties’ overall liability.  
+
+•  Insufficient Information:  
+  – Without seeing the full Agreement (including any other limitation‐of‐liability or indemnification provisions), we cannot determine whether a separate clause imposes a monetary cap elsewhere.","cuad/EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What is the renewal term for this contract?","Based solely on the language you’ve provided:
+
+• License Term: “Perpetual, unlimited runs”  
+• Other Term: “2 years – Commencing: November 15, 2012”  
+
+The text does not specify any renewal term.  There is no mention of an option to renew or the length of any renewal period.","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What is the governing law for this contract?","The Agreement is governed by the laws of the State of Florida.  
+• Citation: “All questions with respect to the construction of this Agreement, and the rights and liabilities of the Parties hereto, shall be governed by the laws of the State of Florida.” (Governing Law provision)","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does this contract include an exclusivity agreement?","Yes. Under the “License Term” clause of the Agreement, the Producer grants ConvergTV an exclusivity right.  Specifically:  
+• “During the License Term … Producer agrees that ConvergTV has the exclusive right to exercise the rights granted to it under this Agreement with respect to the Program … within the Licensed Territory.”  
+— (“License Term” clause)","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does this contract include any revenue or profit-sharing arrangements?","Based solely on the provided context:
+
+1. Revenue‑Sharing Arrangement  
+   - The Agreement expressly contemplates a “Revenue Share” for the Program.  
+   - The specific terms (percentages, timing, calculations) of that revenue share are set forth in Exhibit B of the Agreement.
+
+2. Profit‑Sharing Arrangement  
+   - No “profit‑sharing” arrangement is mentioned in the provided context.  
+   - Only a revenue‑share mechanism (not a profit‑share mechanism) is referenced.
+
+3. Detail Level  
+   - Without the actual text of Exhibit B, we cannot state the precise revenue‑share percentages or other financial mechanics.","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; Does the licensee's affiliates have any licensing rights under this contract?","Based solely on the excerpt you’ve provided:
+
+1. The producer “further grants to ConvergTV the right and license to Distribute the Program … on any channels of a ConvergTV affiliate … without limitation.”  
+2. That language explicitly extends ConvergTV’s distribution rights to include its affiliates’ channels.  
+
+Conclusion: Yes. Under this contract, the licensee’s (ConvergTV’s) affiliates do have licensing rights to distribute the Program.  
+Citation: “this right includes the right to Distribute on any channels of a ConvergTV affiliate … without limitation.” (provided context)","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content Distribution and License Agreement between ConvergTV, Inc. and Fulucai Productions Ltd.; What are the audit rights under this contract?","Based solely on the excerpt you provided, the Agreement’s audit rights are as follows:
+
+1. Audit Right  
+   • Each Party may audit the other Party’s compliance with the Agreement.  
+   • Audits are conducted at the auditing Party’s sole expense.  
+
+2. Scope of Audit  
+   • Includes—but is not limited to—verification of the other Party’s representations and warranties.  
+
+3. Information Gaps  
+   • The excerpt does not specify:  
+     – Notice requirements for conducting an audit  
+     – Frequency or timing constraints on audits  
+     – Location or format of review (e.g., on‑site vs. remote)  
+     – Confidentiality or use of audit findings  
+   • Without the full Agreement text, no further detail can be ascertained.","cuad/FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the expiration date of this contract?","• Per the “Initial Term” provision, this Agreement “commences as of the Effective Date and … shall continue until five (5) years following the Effective Date.” (Context, “Initial Term”)  
+• Therefore, the expiration date is the date exactly five years after the Effective Date.  
+• The actual Effective Date is not provided in the context; accordingly, the specific calendar expiration date cannot be determined from the materials given.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the renewal term for this contract?","The Agreement’s Renewal Term is defined as follows:  
+- “This Agreement shall renew automatically for one (1) additional three (3) year period (the ‘Renewal Term’)…”  
+
+(Source: “Thereafter, this Agreement shall renew automatically for one (1) additional three (3) year period (the ‘Renewal Term’….)”)","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the notice period required to terminate the renewal?","The Agreement provides that it will renew automatically for one additional three‑year term unless either party gives written notice of non‑renewal at least ninety (90) days before the expiration of the Initial Term.  
+• Notice period to terminate renewal: 90 days’ written notice prior to the Initial Term’s expiration.  
+(See “Renewal Term” clause in the provided context.)","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What is the governing law for this contract?","The contract is governed by the internal laws of the State of Nevada.  
+Cited provision: “This Agreement shall be governed by and construed in accordance with the internal laws of the State of Nevada without giving effect to any choice or conflict of law provision or rule.”","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Does this contract include an exclusivity agreement?","Yes.  The excerpt you provided—Section 3.2 of the Agreement—expressly grants Licensee an “exclusive” license.  
+
+•  Section 3.2 (License Grant) states that, so long as Licensee complies with all terms of the Agreement, “Licensor grants to Licensee an exclusive (save for rights reserved to Licensor hereunder)…license” to use the Licensed Content within the defined scope.  
+
+Accordingly, the contract does include an exclusivity provision.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What happens in the event of a change of control of one of the parties in this contract?","Based solely on the excerpt you’ve provided, a change of control of the Licensee (Empirical Ventures, Inc.) is treated as follows:
+
+1. Any merger, consolidation or reorganization involving the Licensee—whether it survives the transaction or disappears—is “deemed to be a transfer of rights, obligations or performance under this Agreement.”  
+2. Such a “transfer” cannot occur without the Licensor’s (PSiTech Corporation’s) prior written consent.  
+
+Citation: “For purposes of the preceding sentence, and without limiting its generality, any merger, consolidation or reorganization involving Licensee (regardless of whether Licensee is a surviving or disappearing entity) will be deemed to be a transfer of rights, obligations or performance under this Agreement for which Licensor’s prior written consent is required.”  
+
+Note: The provided text addresses only the Licensee’s change of control. No provision concerning a change of control of the Licensor appears in the excerpt you supplied.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there an anti-assignment clause in this contract?","Yes. The Agreement contains an anti-assignment clause.  See Section 11.7:
+
+1. “Licensee shall not assign or otherwise transfer any of its rights, or delegate or otherwise transfer any of its obligations or performance, under this Agreement, in each case whether voluntarily, involuntarily, by operation of law or otherwise, without Licensor’s prior written consent.”  
+2. “Any purported assignment, delegation or transfer in violation of this Section 11.7 is void from the outset and shall be of no force or effect.”
+
+These provisions prohibit any assignment or delegation by the Licensee without the Licensor’s written approval and render any unauthorized assignment void.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Does this contract include any revenue or profit-sharing arrangements?","Based solely on the provided excerpt:
+
+1. Revenue‐sharing (royalty) arrangement  
+   - In addition to the License Fee under Section 5.1, the Licensee must pay Licensor a royalty calculated as a percentage of gross revenue.  
+   - The “Royalty Schedule” sets the percentage tiers as follows:  
+     • 0 – 5,000 subscribers: 6.25% of gross revenue  
+     • 5,001 – 7,500 subscribers: 6.75% of gross revenue  
+     • 7,501 – 10,000 subscribers: 7.00% of gross revenue  
+     • 10,001 – 15,000 subscribers: 8.00% of gross revenue  
+     • 15,001 – 20,000 subscribers: 8.50% of gross revenue  
+     • 20,001 – 25,000 subscribers: 9.25% of gross revenue  
+     • 25,001+ subscribers: 9.75% of gross revenue  
+
+2. Profit‐sharing  
+   - There is no provision in the excerpt for sharing net profits—only a royalty based on gross revenue is described.  
+
+Source: “Royalty Schedule,” as quoted in the provided context.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What licenses are granted under this contract?","Below is a summary of the licenses that Licensor grants to Licensee under the Agreement (all citations refer to the provided Context):
+
+1. Content License (Context, first paragraph)  
+   • Type: Exclusive (except for rights reserved by Licensor), non‑transferable (except as provided in Section 11.7), non‑sublicensable  
+   • Scope: To reproduce, perform, display, transmit and distribute the Licensed Content on the Licensee Site and Related Media  
+   • Users & Territory: Intended solely for use by End Users in the Territory  
+   • Limitations: Must comply with Section 3.2 and all other terms; use is limited to the scope set forth in Schedule 1 (License Scope)  
+   • Term: During the License Term  
+
+2. Marks License (Context, second paragraph)  
+   • Type: Limited, non‑exclusive, non‑transferable (except as provided in Section 11.7), non‑sublicensable, royalty‑free  
+   • Scope of Use: Licensor’s Marks as designated by Licensor to:  
+     1. display on the Licensee Site either  
+        a. with the Licensed Content for source attribution; or  
+        b. as links to the Licensed Content  
+     2. comply with Licensee’s express obligations under the Agreement  
+     3. advertise, market and promote the Licensed Content or the Licensee Site and identify Licensor as content provider  
+   • Approval: All uses of Licensor’s Marks require Licensor’s prior written approval  
+   • Term: During the Term of the Agreement  
+
+No other licenses are expressly granted in the provided context.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Are the licenses granted under this contract non-transferable?","The Licenses granted under the Agreement are, by their own terms, non-transferable except in the specific circumstance described in Section 11.7.  
+
+• Section 1 (License Grant for Content) states that the license is “non-transferable (except as provided in Section 11.7) and non-sublicensable.”  
+• Section 1 (License Grant for Marks) likewise describes the license as “non-transferable (except as provided in Section 11.7) and non-sublicensable.”  
+
+Because the only carve-out to non-transferability is found in Section 11.7—and that section’s text is not provided in the supplied context—the general rule is that neither the Content license nor the Marks license may be transferred.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; What are the audit rights under this contract?","Below is a summary of the audit rights granted to Licensor under the Content License Agreement. All references correspond to the clauses in the provided context.
+
+1. Right to Inspect Records and Personnel  
+   • Licensee must make available, during normal business hours, its books, records and appropriate personnel for audit by Licensor or its authorized representative.  
+   • (Context, ¶1)
+
+2. Notice and Frequency Restrictions  
+   Licensor’s audit rights are subject to the following limitations:  
+   a. Prior Notice  
+      – Licensor must give Licensee reasonable prior notice before conducting any audit. (Context, ¶1(a))  
+   b. Annual Limit  
+      – Licensor may audit no more than once per calendar year, unless a previous audit disclosed an outstanding balance due. (Context, ¶1(b))  
+   c. Minimizing Disruption  
+      – Audits must be conducted so as to minimize disruption to Licensee’s normal business operations. (Context, ¶1(c))
+
+3. Allocation of Audit Costs  
+   • By default, Licensor bears the cost of any audit.  
+   • If the audit uncovers under-reporting or under-payment by Licensee of five percent (5%) or more, Licensee must reimburse Licensor for the reasonable cost of that audit. (Context, ¶2)
+
+No other audit provisions appear in the provided text.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there uncapped liability under this contract?","Based on the single sentence you’ve provided, the agreement carves out two exceptions to the caps in Sections 9.1 and 9.2, meaning in those two scenarios liability is uncapped:
+
+1. Indemnification under Section 8.2  
+   – “The provisions of Section 9.1 and Section 9.2 will not apply to limit the Licensee’s indemnification obligations under Section 8.2.”  
+   – Implication: Any indemnity the Licensee owes under § 8.2 is unlimited by the caps otherwise found in § 9.1/9.2.
+
+2. Gross negligence or wilful misconduct  
+   – Those same sections (§ 9.1/9.2) “will not apply … in the case of Licensee’s gross negligence or wilful misconduct.”  
+   – Implication: The Licensee may be fully liable (without cap) for damages arising from its own gross negligence or willful misconduct.
+
+Limitations of this analysis  
+• We have only the excerpt above; there may be other uncapped‑liability provisions or additional caps elsewhere.  
+• No conclusion can be drawn about liabilities outside § 8.2 or gross negligence/wilful misconduct.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between PSiTech Corporation and Empirical Ventures, Inc.; Is there a cap on liability under this contract?","Based on the language you’ve provided, there is indeed a monetary cap on liability.  In particular:
+
+1. Exclusion of Certain Damages  
+   • “Neither party shall be liable under or in connection with this Agreement for indirect, incidental, consequential, liquidated, special or exemplary damages or penalties … regardless of whether such damage was foreseeable and whether Licensor has been advised of the possibility of such damages.”  
+   • (Context, ¶1)
+
+2. Cap on Direct Liability  
+   • “Each party’s liability arising out of or related to this Agreement will not exceed an amount equal to the aggregate amounts paid or payable to Licensor in the twelve (12) months preceding the commencement of the claim.”  
+   • (Context, ¶2)
+
+In sum, while indirect and consequential damages are fully excluded, any recoverable (i.e., direct) damages are capped at the total fees paid—or payable—to Licensor during the twelve months immediately before the claim arose.","cuad/GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What is the expiration date of this contract?","Based solely on the provided clause:  
+
+1. Section “Term and Termination” states that the Agreement “shall commence on the Effective Date listed above and continue for twenty (20) years, unless sooner terminated as provided in Section 7(b).”  
+2. Therefore the contract’s expiration date is twenty years after its Effective Date.  
+3. Because the Effective Date itself is not included in the excerpt you supplied, the precise calendar date of expiration cannot be determined from the materials at hand.","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What is the governing law for this contract?","The Agreement’s Governing Law clause provides:  
+
+- “This Agreement shall be governed by and construed in all respects in accordance with the laws of the State of New York, without giving effect to any conflicts of laws principles.”  
+
+Accordingly, the contract is governed by the laws of the State of New York.","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Does this contract include any right of first refusal, right of first offer, or right of first negotiation?","Based on the Term provision of the Agreement (¶ Term and Termination):
+
+1. Initial Term  
+   – “This agreement shall … remain in effect until the end of the current calendar year.”  
+   – Therefore, the first expiration date is December 31 of the year in which the Agreement is executed.
+
+2. Renewal Terms  
+   – “And shall be automatically renewed for successive one (1) year periods unless otherwise terminated…”  
+   – Each renewal term likewise expires on December 31 of the applicable calendar year.
+
+3. Early Termination  
+   – The only way the Agreement ends prior to each December 31 is by following the cancellation or termination procedures set out in paragraph 18.
+
+Sources:  
+– Term clause (¶ Term and Termination)","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Is there an anti-assignment clause in this contract?","The Agreement “shall be automatically renewed for successive one (1) year periods” (see the second sentence of the provided clause).","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Does this contract include any revenue or profit-sharing arrangements?","The Agreement provides that either party may terminate at the end of the initial term or any renewal term “upon thirty (30) days written notice to the other party.” (see provided clause) Therefore, a 30‑day written notice is required to terminate a renewal.","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; What are the audit rights under this contract?","The Marketing Affiliate Agreement is governed by the laws of the State of Nevada.  
+• Governing Law clause: “This Agreement … shall be governed by and construed in accordance with the laws thereof [Nevada], which laws shall prevail in the event of any conflict.”","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"
+"Consider the Content License Agreement between Beijing Sun Seven Stars Culture Development Limited and You On Demand Holdings, Inc.; Is there uncapped liability under this contract?","Yes. The Agreement contains an anti-assignment clause.  In the (Assignment) section it provides:  
+
+• “MA may not assign, sell, lease or otherwise transfer in whole or in part any of the rights granted pursuant to this Agreement without prior written approval of Company.”  
+
+This language plainly prohibits any assignment or transfer of MA’s rights under the Agreement without the Company’s written consent.","cuad/IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement.txt"

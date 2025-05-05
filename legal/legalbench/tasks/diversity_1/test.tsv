@@ -1,0 +1,11 @@
+aic_is_met	answer	index	parties_are_diverse	text
+True	No	261	False	Harper is from California. Isabella is from California. Harper sues Isabella for patent infringement for $8,374,000.
+True	No	293	False	Benjamin is from Oklahoma. Mia is from Oklahoma. Benjamin sues Mia for negligence for $3,382,000.
+True	Yes	61	True	Harper is from Virginia. Isabella is from Illinois. Harper sues Isabella for medical malpractice for $5,941,000.
+True	Yes	253	True	James is from Georgia. Harper is from Rhode Island. James sues Harper for patent infringement for $6,009,000.
+False	No	166	False	Ava is from Utah. Henry is from Utah. Ava sues Henry for breach of contract for $18,000.
+True	No	26	False	Mia is from Michigan. Sophia is from Michigan. Mia sues Sophia for legal malpractice for $7,684,000.
+False	No	127	True	Emma is from New Mexico. Elijah is from South Carolina. Emma sues Elijah for patent infringement for $74,000.
+True	No	284	False	William is from Rhode Island. James is from Rhode Island. William sues James for trademark infringement for $9,043,000.
+False	No	19	False	Lucas is from West Virginia. James is from West Virginia. Lucas sues James for patent infringement for $47,000.
+True	Yes	254	True	Benjamin is from Maryland. Charlotte is from Wisconsin. Benjamin sues Charlotte for breach of contract for $5,934,000.

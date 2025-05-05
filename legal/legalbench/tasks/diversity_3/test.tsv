@@ -1,0 +1,11 @@
+aic_is_met	answer	index	parties_are_diverse	text
+True	Yes	261	True	Elijah is from Indiana. Mia is from Wisconsin. Elijah sues Mia for defamation for $21,000 and medical malpractice for $97,000.
+False	No	293	False	Lucas is from Tennessee. Mia is from Tennessee. Lucas sues Mia for trespass for $30,000 and medical malpractice for $29,000.
+True	Yes	61	True	Elijah is from Texas. Henry is from Nebraska. Elijah sues Henry for trademark infringement for $52,000 and medical malpractice for $54,000.
+True	Yes	253	True	Harper is from Vermont. Amelia is from Colorado. Harper sues Amelia for securities fraud for $42,000 and patent infringement for $61,000.
+False	No	166	True	Theodore is from Delaware. Harper is from California. Theodore sues Harper for breach of contract for $2,000 and securities fraud for $24,000.
+True	No	26	False	Harper is from Delaware. William is from Delaware. Harper sues William for medical malpractice for $17,000 and copyright infringement for $87,000.
+True	No	127	False	Olivia is from West Virginia. James is from West Virginia. Olivia sues James for copyright infringement for $43,000 and legal malpractice for $87,000.
+True	Yes	284	True	Emma is from Texas. Harper is from Mississippi. Emma sues Harper for negligence for $48,000 and trademark infringement for $98,000.
+False	No	19	False	Henry is from Michigan. Harper is from Michigan. Henry sues Harper for copyright infringement for $23,000 and breach of contract for $14,000.
+True	Yes	254	True	Olivia is from Washington. Emma is from Tennessee. Olivia sues Emma for patent infringement for $27,000 and medical malpractice for $56,000.

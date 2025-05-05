@@ -1,0 +1,685 @@
+"prompt","expected completion","source_file"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What is the Type of Consideration","The Agreement provides for a purely cash‐based consideration.  Specifically:  
+
+1. Offer Price (WHEREAS clause)  
+   - Parent’s Merger Subsidiary will “commence a tender offer … to purchase … all of the shares … at a price per share of $22.00 … in cash, without interest.”  
+
+2. Merger Consideration (Section (a))  
+   - “Each Share outstanding immediately prior to the Effective Time … shall be canceled and converted into the right to receive the Offer Price in cash, without interest (the ‘Merger Consideration’).”  
+
+Accordingly, the Type of Consideration under the Acquisition Agreement is cash consideration of $22.00 per share.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; Information about the Closing Condition: Compliance with Covenants","Below is what the Agreement says about the “Compliance with Covenants” closing condition.  All quotations are from the “Conditions of the Offer” section.
+
+1. Section and Citation  
+   •  Section: Conditions of the Offer  
+   •  Sub‑paragraph: (e)
+
+2. Text of the Covenant Compliance Condition  
+   “the Company shall have performed or complied with, in all material respects, each covenant, agreement and obligation required by the Merger Agreement to be performed or complied with by it on or prior to the Offer Expiration Time;”
+
+3. Key Points  
+   •  Applies “immediately prior to the then applicable Offer Expiration Time.”  
+   •  Is an additional condition (i.e., Parent need not accept or pay for Shares unless this is satisfied).  
+   •  Requires material compliance with every covenant, agreement and obligation that the Company (The Michaels Companies, Inc.) was required to perform under the Merger Agreement by that time.
+
+4. Missing Information  
+   •  The excerpt does not define what constitutes “material respects.”  
+   •  It does not list the specific covenants or obligations; those appear elsewhere in the Merger Agreement.  
+
+No further detail on “covenants” can be given without additional excerpts from the Merger Agreement.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date","Below is the Target’s representation and warranty of no Material Adverse Effect, as set out in the Acquisition Agreement:
+
+1. Representation (Section 4.10(b))  
+   From the Company Balance Sheet Date until the date hereof, the Target represents and warrants that there has not been any:  
+   • event  
+   • occurrence  
+   • development  
+   • state of circumstances or facts  
+   that has had, or would reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect.  
+
+2. Relevant Definition  
+   • “Material Adverse Effect” is a defined term in the Agreement. (Definition not provided in the excerpt.)  
+
+3. Time‑Frame  
+   • “Company Balance Sheet Date” refers to the date of the financial statements delivered by the Target in connection with the Agreement.  
+   • “Date hereof” means the date of the Acquisition Agreement.  
+
+Citation: Acquisition Agreement, Section 4.10(b).","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What is the Definition of ""Material Adverse Effect""","Below is the definition of “Material Adverse Effect” as provided in the Acquisition Agreement between Magic AcquireCo, Inc. and The Michaels Companies, Inc. (all emphasis added and exclusions numbered as in the original):
+
+“Material Adverse Effect” means an event, occurrence, development, circumstance, change or effect that has a material adverse effect on the condition (financial or otherwise), business, assets or results of operations of the Company and its Subsidiaries, taken as a whole, excluding any effect resulting from:
+
+  1.  Changes in the financial, securities, credit, debt, banking or other capital markets or conditions (including changes therein) or foreign or domestic economic, financial, regulatory, legislative, political or social conditions (including changes therein);
+  2.  Changes or conditions generally affecting the industry in which the Company and its Subsidiaries operate or to the industries to which they sell their products and services, including changes in interest and exchange rates or commodity pricing, in any relevant jurisdiction;
+  3.  Geopolitical conditions, hostilities, acts of war, tariffs, trade wars, transportation delays (including work stoppages or port closures), cyber‑attacks, sabotage, civil unrest, terrorism or other occurrences of instability;
+  4.  (1) Plagues, pandemics (including SARS‑CoV‑2/COVID‑19) or other disease outbreaks or (2) hurricanes, tornadoes, floods, earthquakes or other natural or man‑made disasters or force majeure events;
+  5.  Any quarantine, “shelter in place,” “stay at home,” social distancing, shutdown, closure or similar laws, directives or guidelines relating to COVID‑19 (the “COVID‑19 Measures”);
+  6.  Changes or prospective changes in Applicable Law, Tax or GAAP (or their interpretation) on or after the date of the Agreement;
+  7.  Failure by the Company or any Subsidiary to meet internal or published projections, forecasts or guidance, or changes in the market price or trading volume of the Company’s securities or its credit rating (subject to taking into account underlying facts not otherwise excluded);
+  8.  Seasonal fluctuations consistent with historical patterns;
+  9.  The identity of, or any facts or circumstances relating to, Parent, Merger Subsidiary or their Affiliates;
+  10.  The negotiation, announcement, pendency or consummation of the Transactions (including any loss or change in relationships with counterparties), except to the extent related to any breach of a Material Contract representation under Section 4.04;
+  11.  Any litigation, suit or proceeding concerning this Agreement or the transactions contemplated hereby or by the Offer Documents (including fiduciary‑duty or disclosure claims); and
+  12.  (1) Any action taken by the Company or a Subsidiary at the written request or with the written consent of Parent or Merger Subsidiary or (2) compliance with, or failure to take actions prohibited by, the express terms of this Agreement.
+
+Except that, with respect to clauses (ii) through (vi) above, any effect that is materially disproportionate to the impact on other participants in the same industry may be taken into account when determining whether a Material Adverse Effect has occurred.  
+
+(Source: Definition of “Material Adverse Effect” in the provided Acquisition Agreement context)","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What is the Definition of ""Knowledge""","The Agreement defines “Knowledge” as follows (see provided context):  
+
+1. For any Person that is not an individual  
+   - “Knowledge” means the actual knowledge of such Person’s executive officers.  
+
+2. For the Company (The Michaels Companies, Inc.)  
+   - “Knowledge” means the actual knowledge of the individuals listed in Section 1.01(a) of the Company Disclosure Letter.  
+
+Source: “knowledge” definition in the provided Acquisition Agreement excerpt.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What about the Fiduciary exception to the No-Shop Clause","Below is what Section 6.03(d) (the “fiduciary exception”) says about the interplay between the Company’s fiduciary duties and the No‑Shop covenant:  
+
+1. Location of the Exception  
+   • Found in Section 6.03(d) of the Acquisition Agreement (“Go‑Shop; No Solicitation”).  
+
+2. Triggering Conditions  
+   • Prior to the Acceptance Time, the Company (or its Representatives) must receive a written Acquisition Proposal from a third party.  
+   • The Company Board, after consulting its financial advisor and outside legal counsel, must determine that the proposal “is, could lead to, result in or constitute a Superior Proposal.”  
+
+3. Permitted Activities  
+   Once the Board makes the determination above, the Company may:  
+   (i)   Engage in negotiations or discussions with the third party and its Representatives; and  
+   (ii)  Furnish non‑public information about the Company or its Subsidiaries to that third party (subject to an “Acceptable Confidentiality Agreement”).  
+
+4. Conditions on Information Sharing  
+   • Before or substantially concurrently with sharing any material non‑public information with the third party, the Company must furnish that same information to Parent (if not already provided).  
+   • The Company may not provide any of Parent’s or Merger Subsidiary’s non‑public information to the third party.  
+
+5. Cut‑Off Date Exception  
+   After the Cut‑Off Date and notwithstanding the No‑Shop Period Start Date, the Company may continue to engage with “Excluded Parties” under the same exceptions described in Section 6.03(a), without being bound by Sections 6.03(b) and 6.03(c), until the Cut‑Off Date.  
+
+Cited Provision  
+“Notwithstanding anything to the contrary in Section 6.03, if at any time prior to the Acceptance Time … the Company Board determines … [it is a] Superior Proposal, then the Company … may (i) engage … in negotiations … and (ii) furnish … non‑public information … provided, that (A) … make available to Parent any material non‑public information … and (B) not provide … any non‑public information of or relating to Parent …” (Section 6.03(d)).  
+
+No other “fiduciary out” or broader exception appears in the provided context.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What is the Definition of ""Superior Proposal""","Below is the defining language of “Superior Proposal” as set forth in the Acquisition Agreement (emphasis added):  
+
+“Superior Proposal” means a bona fide written Acquisition Proposal for at least a majority of the outstanding Shares or at least a majority of the consolidated assets of the Company and its Subsidiaries that  
+  1. was not solicited in material breach by the Company of the first sentence of Section 6.03(b) or the first sentence of Section 6.03(c), and  
+  2. the Company Board determines in good faith, after consultation with its financial advisor and outside legal counsel, and taking into account all relevant terms and conditions of such Acquisition Proposal, is more favorable to the Company’s stockholders from a financial point of view than the Merger (taking into account any irrevocable written proposal by Parent to amend the terms of this Agreement pursuant to Section 6.03(h)).  
+
+(Source: Acquisition Agreement, Definition of “Superior Proposal”)","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; Information about the Fiduciary Termination Right Triggers for termination","The Agreement’s sole “fiduciary‐out” (i.e., Company‐initiated) termination right is set forth in Section 10.01(d)(i).  In brief, the trigger is:  
+
+1.  Prior to the Acceptance Time, the Company Board:  
+    •  Authorizes the Company to enter into a definitive agreement concerning a Superior Proposal (as defined and governed by Section 6.03(h)); and  
+    •  The Company contemporaneously enters into that definitive agreement; and  
+
+2.  The Company pays the Company Termination Fee required under Section 11.05(a)(ii).  
+
+Citations:  
+–  Section 10.01(d)(i) (fiduciary termination right)  
+–  Section 6.03(h) (definition/governance of “Superior Proposal”)  
+–  Section 11.05(a)(ii) (Company Termination Fee)","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; Is there a Tail provision for acquisition proposals","Based solely on the language of Section 11.05 of the provided Agreement, there is a “tail” provision for Acquisition Proposals:
+
+1. Tail Period  
+   – Section 11.05(a)(iii)(C) provides that if this Agreement is terminated and, within nine (9) months thereafter, the Company (The Michaels Companies, Inc.) both:  
+     a. enters into a definitive agreement for an Acquisition Proposal; and  
+     b. thereafter consummates that Acquisition Proposal,  
+   then the Company must pay the full Company Termination Fee to Parent (Magic AcquireCo, Inc.) on the date of such consummation.
+
+2. Citation  
+   – See Section 11.05(a)(iii)(C).
+
+No other tail period or differing mechanism appears in the text you provided.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; What are the Ordinary course of business covenants","Below is a summary of the “ordinary course of business” covenants imposed on the Company (The Michaels Companies, Inc.) from the date of the Acquisition Agreement until the earlier of the Effective Time or termination of the Agreement (all citations are to Section 6.01 of the Agreement):
+
+1. General Covenant  
+   1.1. The Company (and each of its Subsidiaries) shall conduct its business in the ordinary course, taken as a whole, materially consistent with past practice, except:  
+        • for matters set forth in Section 6.01 of the Company Disclosure Letter;  
+        • actions taken under Section 8.07(h);  
+        • actions required by Applicable Law or Contract;  
+        • actions due to factors excluded from the definition of Material Adverse Effect; or  
+        • actions taken with Parent’s prior written consent (not to be unreasonably withheld, conditioned or delayed; deemed given if Parent does not object in writing within five Business Days of a written request) (Section 6.01).
+
+2. Specific “Best Efforts” Covenants  
+   From the date hereof until closing, the Company shall use its reasonable best efforts to:  
+   2.1. Preserve intact its present business organization (Section 6.01(I)(x));  
+   2.2. Keep available the services of its directors, officers and key employees (Section 6.01(I)(y)); and  
+   2.3. Maintain existing relationships with its material suppliers and other persons having material business relationships with it (Section 6.01(I)(z)).
+
+3. Definition of “Ordinary Course”  
+   References to “ordinary course” or “ordinary course of business” mean the conduct of the Company and its Subsidiaries, taken as a whole, in a manner:  
+   • Materially consistent with past practice; and  
+   • Except for Section 6.01(II), including reasonable good-faith actions or omissions in response to COVID-19 or COVID-19 Measures (Section 6.01, second paragraph).
+
+No additional “ordinary course” covenants are stated in the provided excerpt.","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""Magic AcquireCo, Inc."" and Target ""The Michaels Companies, Inc.""; Where is the Specific Performance clause","The Specific Performance clause appears in Section 11.14 of the Acquisition Agreement.  
+
+• Section 11.14 is titled “Specific Performance.”  
+• It provides that, in the event of a breach or failure to perform under the Agreement, monetary damages alone would be inadequate and the parties are entitled to seek injunctive or other equitable relief (including specific performance) without proof of damages.  
+
+(See Section 11.14.)","maud/The Michaels Companies, Inc._Apollo Global Management, LLC.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; Information about the Closing Condition: Compliance with Covenants","Below is the closing‐condition on “Compliance with Covenants” as set forth in the provided context:
+
+1. Closing Condition (Section 8.2(b))  
+   • “The Company shall have performed in all material respects all obligations (subject to Section 7.2(d)) required to be performed by it under this Agreement at or prior to the Closing Date.”  
+   • Citation: Acquisition Agreement, Section 8.2(b).
+
+2. Waiver Right  
+   • Parent may waive this condition, in whole or in part, to the extent permitted by applicable law.  
+   • Reference: Acquisition Agreement, Section 8.2 introductory paragraph.  
+
+No additional detail on the nature of those covenants or the content of Section 7.2(d) is provided in the excerpt.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date","The Target’s (Tiffany & Co.’s) representation and warranty of no Material Adverse Effect is set forth in Section 5.10(b) of the Acquisition Agreement.  In particular:
+
+1. Time Period Covered  
+   – “Since July 31, 2019, and through the Original Signing Date”  
+
+2. Representation  
+   – There has not been any event, change, development, circumstance, fact or effect, whether existing on or prior to July 31, 2019 or arising thereafter, that is or would reasonably be expected to be materially adverse to:  
+     a. the financial condition of the Company and its Subsidiaries (taken as a whole);  
+     b. the assets of the Company and its Subsidiaries (contingent or otherwise);  
+     c. the liabilities of the Company and its Subsidiaries (contingent or otherwise);  
+     d. the business operations of the Company and its Subsidiaries; or  
+     e. the results of operations of the Company and its Subsidiaries (taken as a whole).
+
+3. Material Adverse Effect Defined  
+   – Any such event or change must, individually or in the aggregate, have had, or be reasonably expected to have, a “Material Adverse Effect” as defined elsewhere in the Agreement.
+
+Citation: Acquisition Agreement Section 5.10(b).","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; What is the Definition of ""Knowledge""","The Acquisition Agreement defines “Knowledge” (or any similar phrase) as follows (see Definition section of the Agreement):  
+1. With respect to the Company (Tiffany & Co.):  
+   - “Knowledge” means the knowledge of the individuals set forth in Section 1.1 of the Company Disclosure Letter.  
+2. With respect to Parent (LVMH Moët Hennessy‑Louis Vuitton SE), Holding and Merger Sub:  
+   - “Knowledge” means the knowledge of the individuals set forth in Section 1.1 of the Parent Disclosure Letter.  
+
+No other or broader meaning of “Knowledge” is provided.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; Where is the No-Shop Clause","The “No‑Shop” obligation is set forth in Section 7.3(a) of the Acquisition Agreement, entitled “No Solicitation.”  
+• Section 7.3(a) (No Solicitation) – prohibits the Company, its Subsidiaries, directors, officers, controlled Affiliates and other Representatives from, among other things, soliciting, initiating or encouraging any Acquisition Proposal or discussions that could lead to one, and requires the Company to terminate and return or destroy confidential information previously provided to any third party (other than Parent).  
+• Related detail appears in Section 7.3(i), which specifies the actions the Company must not take (directly or indirectly) with respect to Acquisition Proposals.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; What is the Definition of ""Superior Proposal""","Below is the definition of “Superior Proposal” as set forth in the Acquisition Agreement between LVMH Moët Hennessy‑Louis Vuitton SE (“Parent”) and Tiffany & Co. (“Company”):
+
+“Superior Proposal” means all of the following (quoted and numbered for clarity):
+
+1.   An unsolicited, bona fide written Acquisition Proposal  
+     – With all references to fifteen percent (15%) in the definition of “Acquisition Proposal” deemed to reference eighty and 1/10th percent (80.1%).  
+
+2.   The Company Board has determined in good faith (after consultation with a financial advisor of nationally recognized reputation and outside legal counsel), taking into account all financial, legal, regulatory and other aspects of:  
+     a.   The Acquisition Proposal itself, and  
+     b.   This Agreement,  
+
+3.   Such Acquisition Proposal is reasonably likely to be consummated in accordance with its terms.
+
+4.   Such Acquisition Proposal would result in a transaction more favorable to the stockholders of the Company (solely in their capacities as such) from a financial point of view than the transaction contemplated by this Agreement (after taking into account any revisions to the terms of this Agreement proposed by Parent pursuant to Section 7.3(d)(ii)).
+
+5.   Such Acquisition Proposal was not obtained or made as a direct or indirect result of a breach of Section 7.3.
+
+Source: Quoted from the provided “Acquisition Proposal” and “Superior Proposal” definitions.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; What is the Definition of ""Interveining Event""","Below is the Definition of “Intervening Event” as set forth in the Acquisition Agreement between Parent (LVMH Moët Hennessy‑Louis Vuitton SE) and Target (Tiffany & Co.).  
+
+“Intervening Event” means any event, occurrence, fact, condition, change, development, circumstance or effect or cause thereof (“Effect”) occurring or arising after the date of this Agreement that is material to the Company and its Subsidiaries, taken as a whole, and that satisfies both of the following:  
+
+1.  Knowledge and Foreseeability  
+    a.  It was not known to, or reasonably foreseeable by, the Company Board as of or prior to the execution of this Agreement (or, if known or reasonably foreseeable, its material consequences were not known or reasonably foreseeable by the Company Board), and  
+    b.  It (or any material consequence thereof) becomes known to, or reasonably foreseeable by, the Company Board prior to the time the Requisite Company Vote is obtained.  
+
+2.  Exclusions  
+    The event, and any consequence thereof, must not in any way involve or relate to:  
+    i.   An Acquisition Proposal;  
+    ii.  Any changes in the market price or trading volume of the Company or Parent or of the major U.S. stock indexes;  
+    iii. Any changes in the Company’s credit ratings;  
+    iv.  The Company or Parent meeting, failing to meet or exceeding published or unpublished revenue or market‑consensus earnings projections (in and of itself); or  
+    v.   Any changes or conditions generally affecting the economies or the industries in which the Company and its Subsidiaries operate—except to the extent such Effect has a materially disproportionate effect on the Company and its Subsidiaries, taken as a whole, relative to others in those industries.  
+
+It is understood that, with respect to clauses (i) through (iv), the underlying Effect giving rise to or contributing to any such change or event may be considered when determining whether an Intervening Event has occurred, to the extent not otherwise excluded.  
+
+Source: Acquisition Agreement, Definition of “Intervening Event.”","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; Information about the Fiduciary Termination Right Triggers for termination","Below is what the Agreement (as provided) says about the Company’s “fiduciary-out” termination right.  
+
+1.   Trigger (Section 9.3(b))  
+     –  “Prior to the time the Requisite Company Vote is obtained,” the Company may terminate this Agreement  
+     –  Purpose: “to enter into an Alternative Acquisition Agreement”  
+
+2.   Conditions for valid termination  
+     a.  Compliance with Section 7.3(d)(ii)  
+         •  (This is the “fiduciary out” clause—i.e., the board may pursue a Superior Proposal consistent with its duties, provided it follows the procedural requirements set forth in Section 7.3(d)(ii).)  
+     b.  Payment of the Company Termination Fee  
+         •  Must be paid “prior to or concurrently with such termination” in accordance with Section 9.5(b)  
+
+3.   Missing information  
+     –  Full text of Section 7.3(d)(ii) (defining the board’s procedural steps when considering a Superior or Alternative Proposal)  
+     –  Full text of Section 9.5(b) (detailing the amount and mechanics of the Company Termination Fee)  
+
+Without Sections 7.3(d)(ii) and 9.5(b), we cannot state further conditions, timelines or fee amounts.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; Is there a Tail provision for acquisition proposals","Based solely on Section 9.5 of the provided context, there is a “tail” provision governing third-party acquisition proposals.  In particular:
+
+1. Section 9.5(b) creates a 12-month “tail” following termination, during which a third-party Acquisition Proposal will trigger the Company Termination Fee if it is consummated in an Alternative Acquisition Agreement:  
+   • Section 9.5(b)(i)(A) requires that a third party must have made or publicly announced an Acquisition Proposal, and  
+   • Section 9.5(b)(i)(B) requires that, within twelve (12) months after termination, the Company enters into an Alternative Acquisition Agreement with respect to that proposal (with a 50% stock-ownership threshold substituted for the usual 15%).  
+
+2. If both (A) and (B) occur, then “immediately prior to or concurrently with” the entry into the Alternative Acquisition Agreement, the Company must pay the $575 million Company Termination Fee.  
+
+No other “tail” beyond this twelve-month post-termination period is expressly provided in Section 9.5.","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; What are the Ordinary course of business covenants","Below is a summary of the “ordinary course of business” covenants as set forth in the provided excerpts from the Acquisition Agreement between Parent (LVMH) and the Company (Tiffany & Co.).  All citations refer to the numbering in your context.
+
+1. Definition of “Ordinary Course of Business”  
+   – “Ordinary Course of Business” means the conduct of the relevant business in the ordinary course, which for the Company (Tiffany) and its Subsidiaries:  
+     • Includes, without limitation, the manner in which they have been operating from the Original Signing Date through the date of the Agreement.  
+     • Includes any COVID-19 Measures taken by the Company or its Subsidiaries after the date of the Agreement.  
+   (Definition immediately preceding Section 7.1)
+
+2. Covenants in Section 7.1(a) – Conduct of the Company  
+   From execution of the Agreement until the earlier of the Effective Time or termination under Article IX, the Company shall, and shall cause each Subsidiary to, except as expressly permitted below:  
+   a. Comply in all material respects with:  
+      i.   All applicable Laws; and  
+      ii.  The material requirements of all Company Material Contracts; and  
+   b. Conduct its business in all material respects in the Ordinary Course of Business.  
+   (Section 7.1(a)(1))
+
+3. Permitted Deviations from Ordinary Course  
+   The foregoing covenant does not prohibit the Company or its Subsidiaries from taking actions that are:  
+   a. Specifically set forth in Section 7.1(a)(i)–(xxiv) of the Company Disclosure Letter;  
+   b. Consented to in writing by Parent (such consent not to be unreasonably conditioned, withheld, or delayed, and to be provided as set forth in Section 7.2);  
+   c. Previously approved in writing by Parent under the Original Merger Agreement;  
+   d. Taken in compliance with a Company Material Contract;  
+   e. Specifically contemplated by the Agreement;  
+   f. Required by a Governmental Entity or applicable Law; or  
+   g. COVID-19 Measures.  
+   (Section 7.1(a), introductory clause and clauses (A)–(C))
+
+4. Missing Information  
+   – The contents of Section 7.1(a)(i)–(xxiv) of the Company Disclosure Letter are not provided, so the specific permitted non-ordinary-course actions thereunder are unknown.  
+   – Section 7.2 (governing timing and manner of Parent’s consent) is also not included.
+
+Summary  
+Under Section 7.1(a) and the defined term “Ordinary Course of Business,” Tiffany & Co. is required to maintain its historical operational practices and, except for certain narrow exceptions (including specified disclosure-letter items, Parent consent, legal requirements, COVID-19 measures, etc.), to (i) comply materially with applicable law and material contracts and (ii) conduct its business materially in the ordinary course from signing until the merger closes (or the agreement terminates).","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""LVMH Moët Hennessy-Louis Vuitton SE"" and Target ""Tiffany & Co.""; Where is the Specific Performance clause","The Specific Performance clause appears in Section 10.6 of the Acquisition Agreement, which is titled “Specific Performance; Remedies.”  
+   
+Citation:  
+• Section 10.6 (“Specific Performance; Remedies”)","maud/TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; Information about the Closing Condition: Compliance with Covenants","Based solely on Section 7.02(b) of the Acquisition Agreement between Parent (“Ocala Bidco, Inc.”) and the Company (“Inovalon Holdings, Inc.”):  
+
+1. Closing Condition – Compliance with Covenants  
+    • Section 7.02(b) provides that, as a condition to Parent’s and Merger Sub’s obligation to close the Merger, all covenants and obligations that the Company is required to comply with or perform at or prior to Closing must have been complied with or performed in every material respect.  
+    • If any such covenant or obligation has not been so complied with or performed, Parent and Merger Sub may waive that failure—provided such a waiver is permissible under Applicable Law and is effected in writing prior to or at Closing.  
+
+2. Missing Information  
+    • Section 7.02(b) does not specify which individual covenants or obligations are implicated; it only establishes the general material-compliance standard.  
+    • No detail is provided as to the process for determining materiality or the procedure for granting any waiver beyond “written waiver … if permissible under Applicable Law.”  
+
+Because the Agreement text beyond Section 7.02(b) isn’t provided, we cannot identify specific covenants, the materiality threshold, or detailed waiver mechanics.","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date","The Acquisition Agreement’s “no Material Adverse Effect” representation by the Target is set forth in Section 4.07.  In particular:
+
+1. Time Period Covered  
+   Between the Company Balance Sheet Date and the date of this Agreement,
+
+2. Representation of No Material Adverse Effect (Section 4.07(i))  
+   The Target represents and warrants that “a Company Material Adverse Effect has not occurred.”
+
+3. Related Covenants (for context)  
+   Also during that same period, the Agreement provides that:  
+   • The business has been conducted, in all material respects, in the ordinary course (Section 4.07(ii)), and  
+   • No actions have been taken that would have required Parent’s prior written consent under specified clauses of Section 6.01 (Section 4.07(iii)).
+
+Because your question focuses solely on the “no Material Adverse Effect” representation, the key provision is Section 4.07(i): “a Company Material Adverse Effect has not occurred.”","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; What is the Definition of ""Knowledge""","Under the Acquisition Agreement (see the definition of “Knowledge”), “Knowledge” means:  
+
+1. With respect to the Company (Inovalon Holdings, Inc.), the actual knowledge, after reasonable inquiry, of each of:  
+   • Keith R. Dunleavy, M.D.  
+   • Beverly Allen  
+   • Jonathan Boldt  
+   • Geoff Charron  
+   • Monica Keeneth  
+   • Ingrid E. Olsen  
+
+2. With respect to Parent (Ocala Bidco, Inc.) and Merger Sub, the actual knowledge, after reasonable inquiry, of each of:  
+   • Fredrik Näslund  
+   • Aditya Desaraju  
+
+(See “Knowledge,” Acquisition Agreement, Section 1.1.)","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; Where is the No-Shop Clause","The “no‑shop” obligation in the Acquisition Agreement is set forth in Section 6.02, titled “Non‑Solicitation.”  In particular:  
+
+1. Section 6.02(a)(ii)  
+   - Subsections (A) through (E) describe the Company’s agreement, from the Execution Date until termination or the Effective Time, not to solicit or facilitate Acquisition Proposals or enter into Alternative Acquisition Agreements.  
+
+2. Section 6.02(g)  
+   - States that any breach of Section 6.02 by the Company’s directors, officers, Subsidiaries or other Representatives constitutes a breach of the Agreement by the Company.  
+
+No other “no‑shop” or similar non‑solicitation provisions appear in the provided excerpt.","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; Is there a Tail provision for acquisition proposals","Based solely on Section 8.03(b)(i) of the Acquisition Agreement, there is a “tail” provision for Acquisition Proposals.  In particular:  
+
+1. Triggering Event  
+   • The Agreement must first be validly terminated by Parent or the Company (per Section 8.01(b), (d), or (e)).  
+   • An Acquisition Proposal must have been made to the Company after signing and, if public, must still be outstanding at the earlier of (a) the Company Stockholder Meeting or (b) the termination date.  
+
+2. Tail Period  
+   • If within twelve (12) months after that termination the Company (i) enters into a definitive agreement to consummate any such Acquisition Proposal, and (ii) that Proposal is ultimately consummated (regardless of whether consummation occurs within the 12-month window), then a fee becomes payable.  
+
+3. Amount and Timing of Fee  
+   • On the date of consummation of the Acquisition Proposal, the Company must pay the “Company Termination Fee” to Parent (or its designee).  
+   • For purposes of this subsection only, the minimum “Acquisition Proposal” share-ownership threshold is raised from 15% to 50%.  
+
+Citation:  
+– Acquisition Agreement, Section 8.03(b)(i).","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; What are the Ordinary course of business covenants","Below are the “ordinary course of business” covenants set forth in Section 6.01(a) of the Acquisition Agreement between Parent (Ocala Bidco, Inc.) and Target (Inovalon Holdings, Inc.):
+
+1. Conduct of Operations  
+   • The Company (together with its Subsidiaries) shall “conduct its operations, in all material respects, in the ordinary course of business.”  
+   • Citation: Section 6.01(a)(i)
+
+2. Preservation of Goodwill and Relationships  
+   • The Company (and its Subsidiaries) shall use “commercially reasonable efforts to preserve the goodwill and current relationships of the Acquired Companies with employees, customers, suppliers and other Persons with which the Company or any of its Subsidiaries has significant business relations.”  
+   • Citation: Section 6.01(a)(ii)
+
+Exceptions  
+These covenants are subject to the following carve-outs, meaning they need not be observed to the extent:  
+   w. described on Section 6.01(a) of the Company Disclosure Letter,  
+   x. required by Applicable Law,  
+   y. expressly required by the Agreement, or  
+   z. otherwise agreed in writing by Parent (not to be unreasonably withheld, conditioned or delayed).  
+   • Citation: Section 6.01(a)
+
+No additional “ordinary course” obligations are stated in the provided text.","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Acquisition Agreement between Parent ""Ocala Bidco, Inc."" and Target ""Inovalon Holdings, Inc.""; Where is the Specific Performance clause","The Specific Performance clause appears in Section 9.02 of the Acquisition Agreement, titled “Remedies Cumulative; Specific Performance.”  
+
+Excerpt (Section 9.02):  
+- The parties acknowledge that a breach would cause irreparable harm for which remedies at law are inadequate.  
+- They agree that, in addition to any other relief, they are entitled to seek injunctions, specific performance, and other equitable relief to enforce the Agreement.  
+- Each party further agrees not to oppose such equitable relief on the basis that it has an adequate remedy at law or that specific performance is inappropriate.","maud/Inovalon_Holdings_Management_Led_Buyout.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; Information about the Closing Condition: Compliance with Covenants","Below is the sole Closing‐condition in the provided text relating to “Compliance with Covenants.”  
+
+1. Source  
+   • Section 6.02(b) (“Agreements and Covenants”) of the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation.  
+
+2. Requirement  
+   • Parent’s and Sub’s obligation to consummate the Merger is subject to the condition that, at or prior to Closing, the Company “shall have performed or complied with, in all material respects, all obligations and covenants required by this Agreement to be performed or complied with by the Company on or before the Closing.”  
+
+3. Waiver  
+   • This condition may be waived by Parent “to the extent permitted by applicable Law.”  
+
+4. Missing Details  
+   • The excerpt does not define “material respects,” nor does it list the specific covenants or obligations the Company must satisfy. Without the full Agreement, we cannot specify those items.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date","The Target’s representation and warranty of no Material Adverse Effect is set forth in Section 3.09(b) of the Merger Agreement.  In pertinent part, Cubic Corporation represents and warrants that:
+
+  1. “Since September 30, 2020 to the date of this Agreement, there has not been any Effect that, individually or in the aggregate, has had, or would reasonably be expected to have, a Company Material Adverse Effect.”  
+     – Source: Section 3.09(b)  
+
+If you need further detail—such as the definition of “Effect” or “Company Material Adverse Effect”—please let me know.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; What is the Definition of ""Knowledge""","Based solely on the excerpt you provided, the term “knowledge” is defined as follows:
+
+1. “Knowledge” means, in each case after reasonable inquiry,   
+   a. with respect to the Company, the actual knowledge of the individuals listed in Section 1.1(A) of the Company Disclosure Letter.   
+
+• Citation: Merger Agreement, Definition of “knowledge,” clause (a) (as provided).  
+• Note: No other clauses or parties’ knowledge definitions were included in the context, so a complete definition may include additional subsections not shown here.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; Where is the No-Shop Clause","The “no-shop” (i.e., no-solicitation) covenant is set forth in Section 5.03 of the Merger Agreement, entitled “Solicitation; Change of Company Recommendation.”  In particular:  
+
+1. Section 5.03(a)(ii) contains the core “no-shop” restrictions, providing that, from the signing date until the earlier of the Effective Time or termination of the Agreement, the Company and its representatives will not, directly or indirectly, initiate, solicit, knowingly encourage or facilitate any Competing Proposal (clause (A)), furnish non-public information to a party making a Competing Proposal (clause (B)), engage in discussions or negotiations regarding a Competing Proposal (clause (C)), enter into any Alternative Acquisition Agreement (clause (D)), or agree to take any such prohibited actions (clause (E)).  
+
+2. These prohibitions are subject only to the narrow carve-out in the proviso at the end of Section 5.03(a), which permits the Company to inform a third party making an inquiry that the Company is contractually prohibited from engaging with it.  
+
+Because the Agreement does not label a separate “No-Shop” article, the functional no-shop obligations are embedded in Section 5.03(a)(ii)(A)–(E).","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; What about the Fiduciary exception to the No-Shop Clause","Below is what Section 5.03(b) of the Merger Agreement says about the “fiduciary exception” to the no-shop (non-solicitation) clause:
+
+1.  General Rule  
+    –  The Company is prohibited from soliciting or engaging with competing bidders (the “no-shop” obligation in Section 5.03(a)).
+
+2.  Fiduciary Exception (Section 5.03(b))  
+    –  Notwithstanding the no-shop obligation, if all of the following are true before the Company Stockholder Approval or termination:  
+       a.  The Company receives a bona fide written “Competing Proposal” that was not solicited in breach of Section 5.03(a).  
+       b.  The Company Board (or a committee) determines in good faith, after consulting its outside financial and legal advisors, that the Competing Proposal is—or would reasonably be expected to lead to—a “Superior Proposal.”  
+       c.  The Board concludes that failing to engage with the bidder would likely violate the Board’s fiduciary duties under applicable law.  
+    –  Then the Company (and its representatives) may:  
+       •  Furnish information (subject first to an “Acceptable Confidentiality Agreement” if the bidder isn’t already bound), and  
+       •  Participate in discussions or negotiations,  
+      provided that any non-public information shared with the competing bidder is promptly (and in any event within 48 hours) also made available to Parent and Sub.
+
+3.  Key Citations  
+    –  Section 5.03(b)(i)–(ii): conditions triggering the exception.  
+    –  Section 5.03(b)(A)–(B): actions permitted once those conditions are met.  
+    –  Last sentence of Section 5.03(b): confidentiality‐and-notice requirements.
+
+4.  No Other Exceptions Stated  
+    –  The only carve-out to the no-shop clause in the provided text is this fiduciary exception.  
+    –  If you need to know whether other carve-outs exist, the text provided is insufficient to answer.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; What is the Definition of ""Interveining Event""","Below is the definition of “Intervening Event” as set forth in the Merger Agreement between Atlas CC Acquisition Corp. and Cubic Corporation (quotation and organization verbatim from the provided context):
+
+“Intervening Event” means a material Effect or state of facts that  
+  1. was not known to, or reasonably foreseeable by, the Company Board prior to the execution of this Agreement, which Effect, or any material consequence thereof, becomes known to, or reasonably foreseeable by, the Company Board prior to the receipt of the Company Stockholder Approval and  
+  2. does not relate to a Competing Proposal;  
+
+provided, however, that an “Intervening Event” shall not include:  
+  (i)  any Competing Proposal or other inquiry, offer or proposal that could lead to a Competing Proposal,  
+  (ii) an Effect resulting from a breach of this Agreement by the Company or any of the Company Subsidiaries,  
+  (iii) changes in the price of the Shares, in and of itself (provided, however, the underlying reasons for such changes may constitute an Intervening Event unless excluded by any other exclusion in this definition), or  
+  (iv) the fact that, in and of itself, the Company exceeds any internal or published projections, estimates or expectations of the Company’s revenue, earnings or other financial performance or results of operations for any period (provided, however, the underlying reasons for such events may constitute an Intervening Event unless expressly excluded by any other exclusion in this definition).","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; Information about the Fiduciary Termination Right Triggers for termination","Below is the sole “fiduciary termination right” trigger set forth in the provided context (Section 7.01(d)).  No other fiduciary‐out provisions are included in your excerpt.
+
+1.   Section 7.01(d) (Company’s right to terminate before stockholder approval upon a Superior Proposal)  
+     The Company may terminate this Agreement if all of the following occur prior to receipt of the Company Stockholder Approval:  
+     a.  A “Superior Proposal” is received by the Company;  
+         – See Section 7.01(d)(i).  
+     b.  The Company Board (or a duly authorized committee) has authorized the Company, pursuant to Section 5.03(e), to enter into an Alternative Acquisition Agreement to consummate that Superior Proposal;  
+         – See Section 7.01(d)(ii) and cross-referenced Section 5.03(e).  
+     c.  The Company has fully complied with its obligations under Section 5.03 with respect to that Superior Proposal (other than any non-compliance that is both immaterial and unintentional);  
+         – See Section 7.01(d)(iii).  
+     d.  The Company pays the Company Termination Fee in accordance with Section 7.02(b);  
+         – See Section 7.01(d)(iv) and cross-referenced Section 7.02(b).  
+     e.  Substantially concurrently with such termination, the Company enters into the Alternative Acquisition Agreement to consummate the Superior Proposal.  
+         – See Section 7.01(d)(v).
+
+If you require any other fiduciary-out triggers, they are not included in the excerpt you provided.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; Is there a Tail provision for acquisition proposals","Based solely on the language of the provided Section 7.02 of the Merger Agreement, there is a “tail” provision covering acquisition (i.e., Competing) proposals.  In particular:
+
+1. Tail Duration  
+     – Paragraph 7.02(b)(i)(C) provides that the tail period is “concurrently with or within twelve (12) months after the date of any such termination.”  
+
+2. Triggering Events  
+   – If the Agreement is validly terminated (Section 7.02(b)(i)(A)) and, within that 12‑month tail period, either:  
+     • the Company (or a subsidiary) enters into a definitive agreement to effect any Competing Proposal whose equity purchase price exceeds the agreed Aggregate Merger Consideration; or  
+     • any Competing Proposal is consummated  
+   – then the Company must pay the Company Termination Fee to Parent, on the timing set forth in Section 7.02(b)(i)(C)(1)–(2).
+
+3. Payment Timing Depends on Counterparty  
+   – If the new proposal is with the same person (or its affiliate) who made the prior proposal (Section 7.02(b)(i)(C)(1)), payment is due upon execution of the definitive agreement or consummation, whichever is earlier.  
+   – If the counterparty is different, payment is due upon consummation (Section 7.02(b)(i)(C)(2)).
+
+Citations:  
+  • Tail period: Section 7.02(b)(i)(C)  
+  • Triggering events and payment obligations: Section 7.02(b)(i)(A) & (C)","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; What are the Ordinary course of business covenants","Below is what Section 5.01 of the Merger Agreement (Atlas CC Acquisition Corp. with Cubic Corporation) expressly provides as the “ordinary course of business” covenant.  Because no further subdivisions or examples are included in your excerpt, this answer is limited to the text you supplied.
+
+1. Time period  
+   – From the date of the Merger Agreement through the earlier of (a) the Effective Time of the merger and (b) termination of the Agreement in accordance with its terms.  
+
+2. Covenant  
+   – “The Company will, and will cause each Company Subsidiary to, use commercially reasonable efforts to conduct its operations in all material respects in the ordinary course of business.”  
+   – Citation: Merger Agreement § 5.01.  
+
+3. Exceptions  
+   – Actions expressly set forth in Section 5.01 of the Company Disclosure Letter.  
+   – Actions expressly contemplated or required by any other provision of the Merger Agreement.  
+   – Actions required by applicable law, including any COVID-19 measures.  
+   – Any other actions for which Parent has given prior written consent (such consent “shall not be unreasonably withheld, delayed or conditioned”).  
+
+4. Missing detail  
+   – The Agreement refers to Section 5.01 of the Company Disclosure Letter for specific exceptions or permitted deviations, but that Disclosure Letter was not provided.  
+
+Because your excerpt contains only the general covenant and its four categories of carve-outs, there is insufficient information to list more granular “ordinary-course” dos and don’ts (e.g., limits on capital expenditures, hiring, transactions with affiliates, etc.), each of which typically appears in a disclosure schedule.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Merger Agreement between ""Atlas CC Acquisition Corp."" and ""Cubic Corporation""; Where is the Specific Performance clause","The Specific Performance clause is found in Section 8.10 of the Merger Agreement, entitled “Specific Performance.”  
+
+– See Section 8.10(a): establishes the parties’ right to seek injunctive or other equitable relief for breaches.  
+– See Section 8.10(c): contains agreed limitations on those remedies.","maud/Cubic Corporation_Investment Group.pdf||Cubic_Corporation_Investment_Group_Amendment No.1.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Type of Consideration","The Acquisition Agreement provides that the entire merger consideration is paid in cash.  Specifically:  
+
+• Section (a) (“Conversion of Company Common Stock”) provides that, at the Effective Time, each outstanding share of HMS Holdings Corp. common stock (other than Cancelled Shares and Dissenting Shares) will be “cancelled and extinguished and automatically converted into and shall thereafter represent the right to receive an amount in cash equal to $37.00 (such amount of cash, as may be adjusted pursuant to Section 3.01(e), … the ‘Merger Consideration’), payable to the holder thereof, without interest, in accordance with Section 3.02.”  
+
+Thus, the sole type of consideration under the Acquisition Agreement is cash (the “Merger Consideration”).","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; Information about the Closing Condition: Compliance with Covenants","Below is the closing‑condition as to covenant compliance under the Acquisition Agreement:
+
+1. Citation  
+   – See Section 8.02(b) (“Covenants”) of the Acquisition Agreement.
+
+2. Requirement  
+   – All covenants and obligations that HMS Holdings Corp. (“the Company”) is required to comply with or perform at or prior to the Closing must have been complied with and performed in all material respects.
+
+3. Exception  
+   – Section 6.01(a)(xxi) must have been complied with and performed in all respects (i.e., no “material” qualifier).
+
+4. Waiver  
+   – Parent and Merger Sub may waive this condition, if permissible under applicable law (see Section 8.02 preamble).
+
+No further detail is provided in the excerpt.","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Target's Representation & Warranty of No Material Adverse Effect, with regards to some specified date","The Acquisition Agreement’s representation and warranty of no Material Adverse Effect by HMS (the “Company”) is set forth in Section 4.07(a) and reads, in substance, as follows:
+
+1. Period Covered  
+   • “Since the Company Balance Sheet Date and through the date of this Agreement…”  
+
+2. Representation  
+   • “There has not been a Company Material Adverse Effect.”  
+
+(See Section 4.07(a) of the Agreement.)","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Definition of ""Material Adverse Effect""","Below is the Agreement’s definition of “Company Material Adverse Effect,” which is the operative “Material Adverse Effect” concept for HMS Holdings Corp. (the “Company”).1
+
+1. General Definition  
+“Company Material Adverse Effect” means any event, change, effect, fact, circumstance, development, condition or occurrence (each an “Effect”) that either:  
+  a. prevents or materially impairs the ability of the Company to consummate the Transactions; or  
+  b. has had, or would reasonably be expected to have, a material adverse effect on the results of operations or financial condition of the Acquired Companies, taken as a whole;  
+
+2. Carve‑Outs—Non‑Excludable Effects  
+Notwithstanding clause (1.b), none of the following, alone or in combination, shall be deemed to constitute a “Company Material Adverse Effect” (nor be taken into account in determining whether one has occurred), except to the extent such matters “disproportionately impact the Acquired Companies (taken as a whole) relative to other businesses in the industries in which the Acquired Companies operate” (applicable to clauses (i), (ii), (iii), (iv), (v) and (ix) only):  
+  (i) Changes in Applicable Law, GAAP or any accounting standards or interpretations thereof;  
+  (ii) General economic, political or business conditions, acts of terrorism, epidemics or pandemics (including COVID‑19), disease outbreaks or changes in geopolitical conditions (including war, armed hostilities or governmental responses thereto);  
+  (iii) Financial and capital market conditions, including interest‑rate and currency‑exchange fluctuations;  
+  (iv) Seasonal fluctuations in the business of the Acquired Companies;  
+  (v) Any change generally affecting the industries in which the Acquired Companies operate;  
+  (vi) The negotiation, entry into or announcement of this Agreement or the Transactions (including related stockholder or derivative litigation or damage to reputation), provided that this carve‑out does not apply to references to “Company Material Adverse Effect” in the Company’s reps and warranties in Sections 4.02, 4.03, 4.04 and 4.16(h);  
+  (vii) Compliance with the terms of this Agreement;  
+  (viii) Actions expressly required or permitted by this Agreement, or taken at Parent’s written request;  
+  (ix) Acts of God or natural disasters;  
+  (x) Changes in the price or trading volume of the Company’s securities or financial instruments (standing alone), provided the underlying cause is not otherwise excluded;  
+  (xi) Failure to meet internal or published projections, estimates or forecasts (standing alone), provided the underlying cause is not otherwise excluded;  
+  (xii) For purposes of Section 8.02(c): (A) matters disclosed in the Company Disclosure Letter; or (B) disclosures in the Company SEC Documents that modify an Article IV representation or warranty, to the extent reasonably foreseeable and apparent on the face of the disclosure as of the date hereof.  
+
+Source: Context, “Company Material Adverse Effect” definition.","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Definition of ""Knowledge""","Below is what the Agreement tells us “Knowledge” means, based solely on the excerpt you supplied.  The remainder of the definition is not included in your context.
+
+1. Definition (excerpted)  
+   “Knowledge” means, with respect to the Company, the actual knowledge, after reasonable inquiry, of each of:  
+   •  Maria Perrin  
+   •  Doug Williams  
+   •  Jacob Sims (but only as to those representations and warranties in Article IV relevant to his role at the Company)  
+   •  Jeffrey Sherman  
+   •  Meredith Bjorck (and, for purposes of Section 4.09(a)(xiv), her “reasonable inquiry” is deemed to include reasonable inquiry of Bill Lucia)  
+   •  David Alexander  
+   •  Greg Aunan  
+
+2. Missing information  
+   – The excerpt ends with “and,” indicating that additional clauses (e.g., subsections (b), (c), etc., or further individuals or definitions) are not provided.  
+   – Without the rest of the Agreement, we cannot say how “Knowledge” is defined for Parent, its other officers, or in any other context.","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; Where is the No-Shop Clause","The “no‐shop” restrictions appear in Section 6.02 of the Acquisition Agreement, titled “No Solicitation; Adverse Recommendation Change.”  In particular:  
+
+1. Section 6.02(a)(ii) contains the core “no‐shop” covenant, which provides that, from the date of the Agreement until termination or the Effective Time, the Company must not, and must cause its representatives not to:
+   • solicit, initiate, seek or knowingly encourage any Acquisition Proposal (clause (A));  
+   • enter into or continue discussions or furnish non‑public information to any third party in a manner reasonably expected to lead to an Acquisition Proposal (clause (B));  
+   • approve or enter into any Alternative Acquisition Agreement (clause (C)); or  
+   • take any action prohibited by clauses (A)–(C) (clause (D)).  
+
+2. Any waiver of “standstill” or similar agreements to permit a third party to submit an Acquisition Proposal is expressly carved out (also in clause (B)).","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What about the Fiduciary exception to the No-Shop Clause","Below is what the Agreement itself says about the “fiduciary exception” to the No-Shop obligation:
+
+1. Location in Agreement  
+   •  See Section 6.02(b) of the Acquisition Agreement.
+
+2. Conditions Triggering the Exception (Section 6.02(b))  
+   The Company may solicit or negotiate with a third party and provide it non-public information if, and only if, all of the following are true:  
+   a.  The Company has received a written Acquisition Proposal from a Third Party that did not result from a material, intentional breach of the No-Shop provisions (i.e., Section 6.02(a)).  
+   b.  The Board, in good faith and after consulting its financial and outside legal advisors, determines that:  
+      i.  The proposal constitutes—or could reasonably be expected to lead to—a “Superior Proposal,” and  
+      ii.  Failing to take action would likely violate the Board’s fiduciary duties under applicable law.
+
+3. Permitted Actions Once Exception Applies (Section 6.02(b)(1) and (2))  
+   a.  Furnish non-public information and grant access to books, records or officers of the Company to the third party.  
+   b.  Engage in discussions and negotiations regarding its Acquisition Proposal.  
+
+4. Information-Sharing to Parent (Section 6.02(b))  
+   •  Any material non-public information provided to the third party (that Parent has not already received) must be delivered to Parent within 48 hours after it is first provided to the third party.
+
+5. No Other Exceptions Stated  
+   •  The text does not describe any other carve-outs or procedures.  
+   •  No additional fiduciary-out mechanics appear outside Section 6.02(b).
+
+— End of analysis based solely on Section 6.02(b).","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Definition of ""Superior Proposal""","“Superior Proposal” is defined in the Acquisition Agreement as follows:
+
+1. Nature of Proposal  
+   – An “Acquisition Proposal” (with one modification: any reference therein to “twenty percent (20%)” is replaced by “fifty percent (50%)”).
+
+2. Proposing Party  
+   – Must be made by a Third Party.  
+   – May not result from a breach of Section 6.02(a) (except for a breach that is both immaterial and unintentional).
+
+3. Board Determination  
+   – The Company Board must determine in good faith, after consultation with its financial and outside legal advisors, that the proposal:  
+     • Takes into account factors the Board deems appropriate (e.g., conditionality, timing, likelihood of consummation)  
+     • Would result in a transaction more favorable from a financial perspective to the Company’s stockholders than the Transactions under the Agreement (including consideration of any Company Termination Fee, if applicable).
+
+Citation: Acquisition Agreement, definition of “Superior Proposal.”","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What is the Definition of ""Interveining Event""","Below is the Agreement’s precise definition of “Intervening Event” (emphasis added and numbered for clarity):
+
+“Intervening Event” means any Effect (other than an Acquisition Proposal) that,  
+1. individually or in the aggregate, is material to the Acquired Companies, taken as a whole,  
+2. that is not known or reasonably foreseeable (or the magnitude of which is not known or reasonably foreseeable) to or by the Company Board as of the date of this Agreement, and  
+3. which Effect (or the magnitude thereof) becomes known to or by the Company Board prior to adoption of this Agreement by the Required Company Stockholder Approval.  
+
+Source: Acquisition Agreement, definition of “Intervening Event.”","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; Information about the Fiduciary Termination Right Triggers for termination","Below is what Section 9.01(h) of the Acquisition Agreement expressly provides as the “fiduciary out” (i.e., the right of HMS Holdings Corp. (the “Company”) to terminate in order to pursue a Superior Proposal).  All citations are to Section 9.01 of the Agreement.
+
+1. Triggering Event  
+   • The Company may terminate this Agreement “at any time prior to the receipt of the Required Company Stockholder Approval”  
+   • Solely for the purpose of entering into a definitive agreement with respect to a “Superior Proposal”
+
+2. Required Conditions (all three must be satisfied concurrently with termination):  
+   (i)  Compliance with Section 6.02(d)  
+        – This is the Company’s obligation to continue to comply with its stand‑still and no‑solicitation undertakings (see Section 6.02(d)).  
+   (ii) Payment of the Company Termination Fee  
+        – The Company must pay to Parent the fee described in Section 9.03.  
+   (iii) Execution of the Superior Proposal Agreement  
+        – Concurrently with termination, the Company must enter into the definitive agreement reflecting the Superior Proposal.  
+
+— Section 9.01(h)","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; Is there a Tail provision for acquisition proposals","Based solely on the language of Section 9.03 of the Agreement, there is a “tail” provision covering acquisition proposals.  In particular:
+
+1. Tail period  
+   • Section 9.03(b)(D) provides that if this Agreement is terminated, then for the twelve (12)-month period following such termination the Company must pay the Company Termination Fee if an Acquisition Proposal is entered into or consummated.  
+
+2. Triggers within the tail  
+   • Entry into a definitive agreement for any Acquisition Proposal, regardless of the counterparty or when it was first made, within twelve months of termination.  
+   • Consummation of any Acquisition Proposal within the same twelve-month period.  
+
+3. Modified threshold  
+   • For purposes of this tail provision, the definition of “Acquisition Proposal” is modified so that the usual twenty percent (20%) ownership threshold is deemed to be fifty percent (50%) (see the proviso in Section 9.03(b)(D)).
+
+Citation:  
+• Section 9.03(b)(D) – “within twelve (12) months following the termination of this Agreement, (1) the Company enters into a definitive agreement for the consummation of any Acquisition Proposal … or (2) any Acquisition Proposal is consummated … then the Company shall pay … the Company Termination Fee…”","maud/HMS Holdings Corp._Veritas Capital.txt"
+"Consider the Acquisition Agreement between Parent ""Gainwell Acquisition Corp."" and Target ""HMS Holdings Corp.""; What are the Ordinary course of business covenants","Below is what Section 6.01(a) of the Acquisition Agreement says about “ordinary course of business” covenants.  Because you provided only the first clause of Section 6.01(a), the description is necessarily limited to that text.
+
+1. Reference  
+   • Acquisition Agreement, Section 6.01(a) (“Conduct of the Company Pending the Merger”).
+
+2. Core Covenant  
+   • From the date of the Agreement until the earlier of (i) the Effective Time or (ii) termination under Section 9.01, the Company and its Subsidiaries must:  
+     – “conduct its operations, in all material respects, in the ordinary course of business.”
+
+3. Permitted Exceptions  
+   This covenant is subject to the following carve‑outs (i.e., the Company may deviate if):  
+   a. The action is set forth in Section 6.01(a) of the Company Disclosure Letter;  
+   b. Required by Applicable Law;  
+   c. “Expressly contemplated by this Agreement”; or  
+   d. Taken with the “prior written consent of Parent” (which consent “shall not be unreasonably withheld, conditioned or delayed”).
+
+4. Scope and Limitations  
+   • Only the clause quoted above was provided. Any further “ordinary course” covenants (e.g., limitations on capital expenditures, M&A activity, financing arrangements, litigation, or employment matters)—if they exist—are not included in the excerpt you supplied.
+
+5. Conclusion on Sufficiency  
+   • The excerpt establishes a general “operate-as-usual” standard, subject to specified carve‑outs.  
+   • No additional sub‑clauses defining “ordinary course” activities are available in the provided context.","maud/HMS Holdings Corp._Veritas Capital.txt"

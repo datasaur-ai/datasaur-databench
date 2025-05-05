@@ -1,0 +1,841 @@
+"prompt","expected completion","source_file"
+"Consider ""Fiverr""'s privacy policy; who can see which tasks i hire workers for?","Based solely on the excerpt you’ve provided from Fiverr’s Privacy Policy, there is no information about who can see which tasks you hire workers for. The passage you shared addresses only the types of data Fiverr collects when you use the Site (e.g., geo‑location, IP address, device/browser data, web‑log information, and user communications).  
+
+Because the policy excerpt does not cover visibility or sharing of your hiring activities, we cannot determine from this text:  
+  • Whether other users, third parties, or Fiverr staff can view the specific tasks you post or hire for, or  
+  • Under what circumstances (if any) such information might be shared.
+
+To answer your question, you would need to refer to sections of the privacy policy that address data sharing, user profiles, or confidentiality—none of which are included in the provided context.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; who can see the jobs that i post?","The excerpt you’ve provided (regarding collection of usage data, geo‑location, IP address, device/browser info, and user communications) does not address visibility of job postings. Accordingly:  
+• The provided text contains no provision describing who can view the gigs or jobs you post.  
+• We cannot determine from this snippet whether postings are public, limited to certain users, or otherwise restricted.  
+
+Additional sections of Fiverr’s Privacy Policy or Terms of Service that specifically address “visibility of listings” or “public access to postings” would be needed to answer your question.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; what type of identifiable information is passed between users on the platform","Based on the excerpts you’ve provided from Fiverr’s privacy policy, once you register on the platform the following user‑identifiable information is made public and thus “passed” (i.e. visible) to other users:  
+
+1. Username  
+   • Your chosen display name on Fiverr (context, ¶2).  
+
+2. User‑uploaded content (context, ¶2)  
+   • Photos you upload to your profile or Gigs  
+   • Any additional files or images included in your published portfolio  
+
+3. Gig details (context, ¶2)  
+   • Titles, descriptions, pricing, scope and any other information you publish about the services (“Gigs”) you offer  
+
+4. Ratings and reviews (context, ¶2)  
+   • Star ratings, written feedback, and other performance indicators left by buyers  
+
+5. Any other profile information you choose to add (context, ¶2)  
+   • This could include biography, skills, education, links to external sites, etc., insofar as you elect to share it  
+
+Note:  
+– Technical details automatically collected by Fiverr (e.g. IP address, browser information, cookies) are used internally “to enable … a more personalized browsing experience” but are not described in your excerpt as being shared with other users (context, ¶1).  
+– If you require information about additional categories of personal data (e.g. email address, real name, payment details), that detail is not included in the provided text and cannot be confirmed here.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; how is my info protected from hackers?","Below is what Fiverr’s privacy policy says about protecting your information from unauthorized access (e.g., hackers). All citations are taken verbatim from the provided context:
+
+1. Industry-standard technologies and internal procedures  
+   • “We take great care in maintaining the security of the Site and your information and in preventing unauthorized access, loss, misuse, alteration, destruction or damage to it through industry standard technologies and internal procedures.”  
+
+2. Contractual requirements for third-party processors  
+   • “We contractually ensure that any third party processing your personal information equally provide for confidentiality and integrity of your data in a secure way.”  
+
+3. Strict procedures and security features once data is received  
+   • “Once we have received your data, we will use strict procedures and security features to try to prevent unauthorized access.”  
+
+4. User password confidentiality  
+   • “Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party.”  
+
+5. Disclaimer on internet transmission risks  
+   • “The transmission of data via the internet is not completely secure, and although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk.”  
+
+6. Additional information available on request  
+   • “Further information about our data security practices can be provided on request.”  
+
+No other technical measures (e.g., encryption protocols, intrusion detection systems) are described in the provided text.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; who can see my information?","Based solely on the excerpt you provided:
+
+1. Who collects/“sees” your information  
+   - Fiverr itself (“we”), in order to operate the Site and provide its services to you, is aware of and records your:  
+     - Geo‑location data  
+     - IP address  
+     - Device and connection information  
+     - Browser and web‑log information  
+     - All communications you record through the Site  
+   (Context)
+
+2. With whom Fiverr may share your information  
+   - “Third parties,” but only for these purposes:  
+     a. To operate the Site  
+     b. To provide services to you  
+     c. To fulfill obligations under applicable laws and regulations  
+     d. To prevent fraud and illegal activities  
+   (Context)
+
+3. What’s missing  
+   - The specific identities or categories of those third‑party recipients are not listed in the excerpt you supplied. Without the “detailed below” portion, we cannot state precisely which service providers, authorities or fraud‑prevention partners receive your data.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; what information does the company store about me?","Below is a summary of all categories of personal information Fiverr stores about you, based solely on the provided policy excerpt.  Section references correspond to the order in which each category appears in your context.
+
+1. Registration Information (para. 1)  
+   • Valid email address  
+   • Location  
+   • Facebook or Google account login details  
+   • Username  
+   • (As needed) Physical address, telephone number or other contact details  
+   • (As needed) Additional authentication information  
+
+2. Usage and Activity Data (para. 2)  
+   • Geo-location information  
+   • IP address  
+   • Device and connection information  
+   • Browser information and web-log data  
+   • All communications you record or send through the Site  
+
+3. Third-Party Supplemental Information (para. 2)  
+   • Demographic data  
+   • Navigation data  
+
+4. Impression-Reporting Data (para. 3)  
+   • Global Unique Identifier  
+   • HTTP request data (user agent, IP, host, URL, country/continent)  
+   • Browser information  
+   • Device, operating system and OS version  
+
+5. Public Profile Content (para. 4)  
+   • Username and any profile information you choose to add  
+   • Photos you upload  
+   • Published portfolio and Gig details  
+   • Ratings  
+
+6. Technical and Automated Data (para. 5)  
+   • Internet Protocol (IP) address (logged repeatedly)  
+   • Software configuration  
+   • Operating system  
+   • Cookies (small files sent to and from your computer)  
+
+No additional categories of personal data are listed in the provided excerpt.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; what information can other people see?","Based solely on the excerpt you provided from Fiverr’s Privacy Policy:
+
+1. Publicly Visible Information  
+   “Once you register, your username and additional information regarding your activity is made public and is visible to all Users of the Site.”  
+   This specifically includes:  
+   • Photos you upload  
+   • Your published portfolio  
+   • Gig information  
+   • Ratings  
+   • Any additional information you choose to add to your profile  
+
+2. Technical Information  
+   While Fiverr also collects certain technical data (IP address, browser information, cookies), the passage does not state that this information is visible to other users.  
+
+Limitation:  
+• No other categories of “public” data are described in the provided context.  
+• If you need to know whether any additional profile fields or other user‑generated content are publicly visible, you’ll need to refer to the full policy beyond the excerpt above.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; how does fiverr protect freelancers' personal information?","Below is how Fiverr’s policy (as provided) describes its protections for freelancers’ personal information. All citations refer to the numbered or quoted excerpts from your context.
+
+1. Industry-standard technologies and internal procedures  
+   • “We take great care in maintaining the security of the Site and your information and in preventing unauthorized access, loss, misuse, alteration, destruction or damage to it through industry standard technologies and internal procedures.”  
+
+2. Contractual safeguards with third-party processors  
+   • “We contractually ensure that any third party processing your personal information equally provide for confidentiality and integrity of your data in a secure way.”  
+
+3. Strict procedures and security features after data receipt  
+   • “Once we have received your data, we will use strict procedures and security features to try to prevent unauthorized access.”  
+
+4. User-held password confidentiality  
+   • “Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party.”  
+
+5. Additional information on request  
+   • “Further information about our data security practices can be provided on request.”  
+
+Caveat on transmission risk  
+   • “The transmission of data via the internet is not completely secure . . . we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk.”  
+
+—  
+No other measures are described in the provided excerpt.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; how does fiverr ensure payments to freelancers are secure?","Based on the excerpts you’ve provided from Fiverr’s Privacy Policy, Fiverr secures payments to freelancers as follows:
+
+1. Use of Third‑Party Payment Vendors  
+   • Fiverr does not itself collect or store buyers’ credit‑card or bank details; instead, “we allow our payment vendors to collect information for the purpose of … transferring payments to sellers on the Site.” (Context ¶1)  
+   • Fiverr “is not exposed to the payment information provided to our payment vendors, and this information is subject to the privacy policy applicable to the payment vendor.” (Context ¶2)
+
+2. Contractual Security Obligations  
+   • Fiverr “contractually ensure[s] that any third party processing your personal information equally provide for confidentiality and integrity of your data in a secure way.” (Context ¶3)  
+
+3. Industry‑Standard Technologies & Procedures  
+   • Fiverr “take[s] great care in maintaining the security of the Site and your information and in preventing unauthorized access, loss, misuse, alteration, destruction or damage to it through industry standard technologies and internal procedures.” (Context ¶2)  
+   • Upon receipt of your data, Fiverr uses “strict procedures and security features to try to prevent unauthorized access.” (Context ¶5)
+
+4. User‑Controlled Access  
+   • Registered users must “keep their password in strict confidence and not disclose such password to any third party,” thereby reducing risk of account takeover. (Context ¶6)
+
+Limitations:  
+• Fiverr notes that “transmission of data via the internet is not completely secure … any transmission is at your own risk.” (Context ¶4)  
+
+No further details (e.g. specific encryption standards or audit protocols) are provided in the excerpts supplied.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; is my information sold to any third parties?","Based solely on the excerpts you’ve provided from Fiverr’s Privacy Policy:
+
+1. No sale or rental for marketing  
+   • “We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.”  
+
+2. Limited sharing for service operation  
+   • Personal details may be shared with third parties only to:  
+     a. operate the Site  
+     b. provide services to you  
+     c. fulfill legal/regulatory obligations  
+     d. prevent fraud and illegal activities  
+
+Conclusion  
+– Fiverr does not sell your personal information to any third parties for marketing purposes unless you explicitly consent.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; will my location be constantly tracked?","Based on the excerpt you provided from Fiverr’s Privacy Policy:
+
+1. Scope of Collection  
+   • “When you access the Site … we may gather, collect and record the information relating to such usage, including geo‑location information …”  
+   • Citation: provided context (geo‑location information is listed among the data “we may gather”)
+
+2. Constant Tracking?  
+   • The policy states Fiverr “may” collect geo‑location data whenever you use the Site.  
+   • It does not specify that your location is tracked continuously in real time when you are not actively on the Site.  
+
+3. Insufficient Detail  
+   • No language in the provided context clarifies frequency (e.g., interval‑based polling vs. one‑time capture at login).  
+   • Without additional sections of the policy, we cannot determine whether tracking is “constant,” intermittent, or only at session start/end.  
+
+Conclusion  
+– Fiverr’s policy permits collection of your geo‑location while you use the Site but does not explicitly commit to, nor rule out, continuous background tracking. Further detail would be needed from the full policy to answer definitively.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; will potential employers be able to obtain my address?","Based solely on the excerpts you’ve provided:
+
+1. Collection of Address  
+   • “We may collect additional information such as physical address … to provide you with the services you need … or to ensure the marketplace integrity”  
+     – Source: Paragraph 2  
+
+2. What Becomes Public  
+   • “Once you register, your username and additional information regarding your activity is made public and visible to all Users of the Site. This information includes photos … and additional information you may choose to add to your profile.”  
+     – Source: Paragraph 3  
+
+3. Implication for Your Physical Address  
+   • The policy does not state that your physical address is automatically published.  
+   • Only information you “choose to add to your profile” becomes visible to other users.  
+
+Conclusion  
+• Unless you explicitly include your physical address in your public profile, potential employers (or any other users) will not be able to see it.  
+
+Note: The policy doesn’t address whether Fiverr might share your address privately with third parties or under legal compulsion; no such sharing is described in the provided text.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; can i control the information that is presented to potential employers?","Based solely on the excerpt you provided from Fiverr’s Privacy Policy:  
+
+1. All registrants’ basic identifiers and activity data are publicly visible  
+   - “Once you register, your username and additional information regarding your activity is made public and is visible to all Users of the Site.”  
+
+2. What you can control  
+   - You decide which optional details to add to your profile beyond what Fiverr collects automatically.  
+     • Photos you upload  
+     • Your published portfolio  
+     • Gig information  
+     • Any “additional information you may choose to add to your profile”  
+
+3. What you cannot control (per the provided text)  
+   - Your username  
+   - Your ratings  
+   - The fact that any activity-related data becomes public once you register  
+
+4. Conclusion  
+   - You cannot prevent Fiverr from showing your username, portfolio, gig info or ratings to potential employers.  
+   - You only control the *optional* items you choose to add to your profile.  
+
+No other privacy‑control mechanisms (e.g., hiding portfolio items or ratings) are mentioned in the provided context.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; can other parties see my information","Based solely on the excerpts you provided:
+
+1. Public visibility to other Users  
+   “Once you register, your username and additional information regarding your activity is made public and is visible to all Users of the Site. This information includes photos you upload, your published portfolio, Gig information, ratings, and additional information you may choose to add to your profile.”  
+   – All Fiverr Users can see whatever profile content you choose to upload or publish.
+
+2. Sharing with third-party service providers  
+   “We may provide your personal details to third parties, only in order to operate the Site, provide our services to you, fulfil obligations imposed on us by applicable laws and regulations, and prevent fraud and illegal activities, as detailed below:”  
+   – Fiverr may disclose your personal details to third parties, but only for the limited purposes listed (operation, service provision, legal compliance, fraud prevention).  
+   – The exact personal details shared and the identities of those third parties are not specified in the excerpt you supplied.
+
+3. Insufficient detail  
+   – The policy excerpt does not specify which “personal details” are disclosed to third parties, nor under what precise conditions.  
+   – It is therefore unclear from this text alone how much of your private information (beyond what you publish in your profile) may be shared outside Fiverr.
+
+Conclusion  
+– Yes. Other Fiverr Users can see all profile content you publish (username, photos, portfolio, Gigs, ratings, etc.).  
+– Yes. Fiverr also shares certain personal details with third parties—but the provided text does not specify exactly what data is shared or to whom.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; can other people see my financial information","Based on the excerpt you provided from Fiverr’s privacy policy:
+
+1. Fiverr itself does not collect or store your credit‑card or other financial details.  
+2. Third‑party payment vendors (e.g. Stripe, PayPal, etc.) do collect and process that information solely to:  
+   • Charge buyers for services purchased on the Site; and  
+   • Transfer payments to sellers on the Site.  
+3. Fiverr “is not exposed” to any of your payment data—meaning Fiverr employees, other users, or any external parties apart from the payment vendors have no access to it.  
+4. Any handling of your financial information by those payment vendors is governed by **their** respective privacy policies (not Fiverr’s).
+
+Conclusion: No other Fiverr users or Fiverr staff see your financial details. Only the designated payment vendor does, and only under the terms of that vendor’s own privacy policy.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; what information do you collect?","According to the provided context, Fiverr’s Privacy Policy collects the following categories of information:
+
+1. Information you provide or voluntarily share (Context, ¶1)  
+   • Any data you submit directly to Fiverr or share with other users.
+
+2. Registration information (Context, ¶2)  
+   • Valid email address  
+   • Location  
+   • Facebook or Google account login details  
+   • Username
+
+3. Additional personal and authentication information (Context, ¶3)  
+   • Physical address  
+   • Telephone number or other contact details  
+   • Additional authentication data (e.g., for payments, withdrawals, fraud prevention)
+
+4. Usage and device information gathered during site access (Context, ¶4)  
+   • Geo-location information  
+   • IP address  
+   • Device and connection information  
+   • Browser information  
+   • Web-log (server) data  
+   • Communications recorded through the Site
+
+5. Supplemental third-party data (Context, ¶5)  
+   • Demographic information  
+   • Navigation data
+
+6. Advertising impression reporting data (Context, ¶6)  
+   • Global Unique Identifier  
+   • HTTP request data (user agent, IP, host, URL)  
+   • Country or continent of request  
+   • Browser, device, operating system, and OS version
+
+7. Publicly visible profile information (Context, ¶7)  
+   • Username and activity history  
+   • Uploaded photos and published portfolio  
+   • Gig information and ratings  
+   • Any additional profile details you choose to add
+
+8. Automatic technical logs (Context, ¶8)  
+   • IP address  
+   • Software configuration and operating system  
+   • Cookies (small files stored on your device)","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; do you sell my information to third parties?","Based on the language you provided from Fiverr’s Privacy Policy:
+
+1. Do you sell my information to third parties for their marketing purposes?  
+   • No. “We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.” (Context, first sentence)  
+
+2. Do you ever share my personal information with third parties?  
+   • Yes, but only for limited, non‑marketing purposes:  
+     – To operate the Site and provide services to you  
+     – To comply with legal obligations and prevent fraud or illegal activities  
+   • This sharing is not a “sale” or “rental” for marketing—rather, it’s functional or legally required. (Context, last paragraph)  
+
+3. Can I opt out of marketing communications?  
+   • Yes. You may unsubscribe via the link in each message or email optout@fiverr.com. (Context, third sentence)","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; do you use a secure payment service?","Based solely on the excerpts you’ve provided:
+
+1. Fiverr does not itself collect or store your payment (credit/card) information.  
+   • “We do not collect credit information; but allow our payment vendors to collect information…” (Context)
+
+2. All payment data is handled by third-party payment vendors, for both:  
+   a. charging buyers on the Site  
+   b. transferring funds to sellers on the Site  
+
+3. Fiverr never sees or retains your raw payment data; instead:  
+   • “We are not exposed to the payment information provided to our payment vendors, and this information is subject to the privacy policy applicable to the payment vendor.” (Context)
+
+4. The policy excerpt does not itself describe any specific security standards or encryption methods.  
+   • No mention of “secure payment service,” PCI-DSS compliance, SSL/TLS, or similar safeguards appears in the provided text.
+
+Conclusion  
+• Fiverr relies on its selected payment vendors to process and secure your payment data.  
+• Whether those vendors employ “secure payment services” must be confirmed by reviewing each vendor’s own privacy/security policy, which is outside the scope of the text you provided.","privacy_qa/Fiverr.txt"
+"Consider ""Fiverr""'s privacy policy; how is information used?","Based solely on the provided excerpts from Fiverr’s Privacy Policy, your information is used as follows:
+
+1. To provide and secure the core marketplace services (Context ¶1–3)  
+   • Perform or enter into a contract with you (e.g., enable payment/withdrawal of funds, send physical goods).  
+   • Verify your identity, establish/set up your account, re‑issue passwords and log your activity.  
+   • Ensure marketplace integrity by preventing fraud and monitoring for inappropriate content or behavior.  
+
+2. To enhance and personalize your experience (Context ¶2, ¶4)  
+   • Personalize your browsing experience and improve services.  
+   • Contact you from time to time regarding your account or service updates.  
+
+3. To comply with legal and regulatory obligations (Context ¶3)  
+   • Maintain business records and respond to lawful requests by public authorities.  
+   • Retain your data for a limited period after account deactivation to meet these obligations.  
+
+4. On the basis of legitimate interests (Context ¶3)  
+   • Improve and customize Fiverr’s offerings, subject to your rights and freedoms.  
+
+5. With your consent for any additional purposes not listed above (Context ¶5)  
+
+6. For direct marketing (Context “Direct marketing” section)  
+   • Send you promotional communications (email, post, SMS, telephone or online ads) about Fiverr products, services or promotions.  
+   • Rely primarily on legitimate interests, or on your consent where required by law.  
+   • Provide an opt‑out via each communication’s unsubscribe link or by emailing optout@fiverr.com.  
+   • Limit marketing to a reasonable, proportionate level and tailor content based on what Fiverr knows about you.","privacy_qa/Fiverr.txt"
+"Consider ""Keep""'s privacy policy; who has access to my workout plans?","Based on the excerpts you’ve provided from Keep’s Privacy Policy:
+
+1.  Payment‐related affiliates  
+   - “Where we or our affiliate companies process your payments … we may collect, use and store your Personal Information … in order to fulfill such purchases.”  
+   - Citation: “Where we or our affiliate companies … fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.”
+
+2.  Third-party social platforms (only if you opt in)  
+   - “You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+   - Citation: “You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”
+
+Note:  
+–   The provided text does not explicitly define “workout plans” as “Personal Information,” nor does it state any other parties (e.g. internal teams, analytics providers, advertisers) have access.  
+–   Therefore, beyond payment‐processing affiliates and any social platforms you explicitly share with, no additional recipients of your workout plans are identified in the supplied policy excerpts.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will my fitness coach share my information with others?","Based solely on the excerpts you’ve provided, Keep’s Privacy Policy states:  
+
+1. “Other than consented by you, we commit that we will not sell your personal information to any other third parties for their processing for any purposes.”  
+2. “We will not disclose or transfer your personal information to any non‑affiliated third parties, unless:  
+   • You may choose to share certain information.  
+   • In order to participate in certain features, you may have to adjust your Privacy settings and share more information.  
+   • You may also choose to share your activity on other platforms…”  
+
+– Because your fitness coach would be a non‑affiliated third party, Keep will not share your information with them (or with anyone else) unless you have explicitly consented or have actively shared that data via your settings or platform permissions.  
+
+Note: The policy excerpt does not specifically define “fitness coach,” but under its general terms on third‑party disclosures, no sharing occurs without your consent.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will my progress only be posted to social media if i want it to?","Based solely on the single sentence you’ve provided from Keep’s privacy policy:
+
+  “We will not disclose or transfer your personal information to any non-affiliated third parties, unless:”
+
+1. That sentence establishes a general rule of non-disclosure to non-affiliated third parties.  
+2. It does not explicitly address whether or how your workout progress (or any other activity) may be shared on social media.  
+3. No exception clauses or specific user-consent provisions are included in the excerpt.
+
+Conclusion: The excerpt is silent as to social-media posting of your progress and does not state that such sharing requires your affirmative consent. Additional portions of the privacy policy—specifically any clauses that follow “unless:” or sections on user controls and sharing—would be needed to determine whether your progress is posted only if you choose.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will any photos i take be accessed by outside parties?","Based solely on the excerpts you’ve provided, there is no mention of photos (or image files) being collected, stored, shared or otherwise accessed by any third parties. Specifically:
+
+1. Payment processing (third‑party or in‑house)  
+   – Only transaction summaries or Personal Information related to purchases are mentioned.  
+   – No reference to photos or media files.  
+
+2. Social‑media sharing (Facebook, Twitter, Instagram)  
+   – You “may choose to share your activity,” but “activity” is not defined to include photos.  
+   – There is no indication that photos from your device are automatically shared.  
+
+3. Apple HealthKit data  
+   – Health metrics (age, weight, heart rate) are protected and not shared without your authorization.  
+   – Again, no mention of photos.  
+
+Because the policy excerpts make no reference to photos, there is no basis in the provided text to conclude that photos you take will be accessed by outside parties. Additional sections of the privacy policy would be needed to answer definitively.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will my information be shared with other companies for marketing?","Based on the excerpts you provided from Keep’s Privacy Policy, Keep does not share your personal information with unaffiliated third-party companies for marketing purposes, except in the limited circumstances you yourself initiate.  Specifically:  
+
+1. “We will not disclose or transfer your personal information to any non-affiliated third parties, unless:  
+   • You may choose to share certain information.  
+   • In order to participate in certain features, you may have to adjust your Privacy settings and share more information.  
+   • You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+   (Privacy Policy, “We will not disclose…” section)  
+
+2. All other uses of your Personal Information (e.g., payment processing, fulfilling purchases) occur only with Keep or its affiliates—not with unrelated marketing partners.  
+
+Conclusion: Keep does **not** share your data with other companies for marketing unless you explicitly opt in or adjust settings to do so.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will the app use my data for marketing purposes?","Based solely on the excerpts you’ve provided, there is no indication that Keep uses your Personal Information for marketing purposes.  In particular:
+
+1. Purposes expressly stated (see provided context):  
+   • Payment processing and fulfillment of purchases  
+   • Enabling app functionalities via Location Data and Log Data  
+   • Accessing additional device content (e.g. contacts, photos) only if you grant permission  
+
+2. Restrictions on sharing (provided context):  
+   • “We will not disclose or transfer your personal information to any non‑affiliated third parties, unless:  
+     – You choose to share certain information; or  
+     – You adjust your privacy settings or share activity on other platforms.”    
+
+3. Absent from the provided text:  
+   • Any clause authorizing the use of your data for marketing, advertising, profiling, or similar promotional activities.  
+
+Conclusion  
+– Based on the sections you supplied, Keep does not state that it will use your data for marketing.  
+– There is no express permission or policy language in the provided excerpts allowing marketing use.  
+– If Keep’s full policy addresses marketing elsewhere, that section was not included here and could affect this analysis.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; does this app get access to my other apps like twitter and instagram?","Based solely on the excerpts you’ve provided from Keep’s privacy policy:
+
+1. Information Collected for Registration  
+   – “To register, you may need to provide certain Personal Information, such as your name, mobile phone number, password, exercise goal and status.” (Registration section)  
+   – No mention is made of collecting credentials or data from other apps (e.g., Twitter, Instagram).
+
+2. Third-Party Disclosure  
+   – “We will not disclose or transfer your personal information to any non-affiliated third parties, unless: …” (Disclosure section)  
+   – This clause addresses sharing your personal data; it does not imply that Keep accesses or syncs with your other apps.
+
+Conclusion  
+– There is no language in the provided context indicating that Keep accesses or integrates with third-party applications such as Twitter or Instagram.  
+– Information is insufficient to confirm any such access; the policy excerpts neither authorize nor describe linking to other social media apps.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; how safe is my account information on this app?","Based solely on the excerpts you’ve provided, here is what Keep’s privacy policy says about the safety of your account information:
+
+1. Security measures  
+   • “We use a variety of security measures, including encryption and authentication tools, to help protect your information.”  
+   • Credit‑card data is “transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.”  
+
+2. Data deletion and retention  
+   • You may delete content or your entire account at any time. If you cannot, you can contact support@gotokeep.com.  
+   • “In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion,” and there “may be delays between when you delete something and when copies are deleted from our active and backup systems.”  
+
+3. Server locations  
+   • “We maintain servers around the world and your information may be processed on servers located outside of the country where you live.”  
+
+4. Disclaimer of absolute security  
+   • “However, like other companies, we cannot guarantee 100% the security or confidentiality of the information you provide to us.”  
+
+Conclusion  
+• Keep employs standard industry measures (encryption, SSL, authentication) to safeguard your data and offers account‑deletion mechanisms.  
+• It discloses possible delays in purging deleted data and cross‑border processing of your information.  
+• It expressly disclaims any promise of perfect security or confidentiality.  
+
+No additional detail (e.g., specific encryption standards, audit practices or breach‑notification procedures) is provided in the excerpts, so a more granular assessment isn’t possible from the material given.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; are my statistics kept private?","Based solely on the excerpts you’ve provided, there is no explicit statement that your “statistics” are kept private. In fact, the policy excerpts indicate the following:  
+
+1. Collection, use and storage of Personal Information for purchase-fulfillment  
+   • “Where we or our affiliate companies process your payments … we may collect, use and store your Personal Information in order to fulfill such purchases.”  
+     – (Context, first paragraph)  
+
+2. Optional sharing of your activity on third-party platforms  
+   • “You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+     – (Context, second paragraph)  
+
+Missing from these excerpts is any proviso that your statistics (e.g., usage metrics, performance data) are treated as private or confidential. No clause addresses how Keep handles, secures or discloses statistics beyond payment-related data or user-initiated sharing.  
+
+Conclusion  
+• There is insufficient information in the provided policy text to affirm that your statistics are kept private.  
+• The policy, as quoted, neither guarantees privacy nor describes restrictions on statistical data processing or disclosure.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; who can see my data?","Based solely on the excerpts you’ve provided, the following parties may be able to see or access your data:  
+
+1. Keep and its affiliate companies  
+   • “Where we or our affiliate companies process your payments … we may collect, use and store your Personal Information …”  
+   (Context, first sentence)  
+
+2. Any third‑party platforms you opt into  
+   • “You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+   (Context, last sentence)  
+
+3. Parties involved in certain features, if you adjust your privacy settings  
+   • “In order to participate in certain features, you may have to adjust your Privacy settings and share more information.”  
+   (Context, second sentence)  
+
+Note: The provided text does not specify which affiliates or feature‑related parties beyond the above, nor what level of access each has.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; does the app access my contact list?","Based solely on the excerpt you’ve provided, there is no indication that Keep accesses your contact list.  
+
+• The only categories of personal information mentioned are:  
+  1. “Information you make available to us when you open a Keep account…” (no further detail in the excerpt about contacts)  
+  2. Payment data processed by a third-party provider, which Keep does not collect or store (they may receive only summary transaction information).  
+
+Because the provided policy text does not reference “contacts,” “address book,” or any similar term, we cannot conclude that Keep accesses your contact list. Additional sections of the privacy policy would be needed to confirm otherwise.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; is my data safe?","Based solely on the excerpts you’ve provided, Keep’s policy on data safety can be summarized as follows:
+
+1. Security Measures  
+   • “We use a variety of security measures, including encryption and authentication tools, to help protect your information.”  
+   • “All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.”  
+   • “We use secure servers when you place orders.”  
+
+2. Data Deletion & Retention  
+   • You may delete or remove your own content at any time; for anything you cannot delete, you must contact support@gotokeep.com.  
+   • “In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion.”  
+   • There “may be delays between when you delete something and when copies are deleted from our active and backup systems.”
+
+3. Geographic Processing  
+   • “We maintain servers around the world and your information may be processed on servers located outside of the country where you live.”
+
+4. No Absolute Guarantee  
+   • “However, like other companies, we cannot guarantee 100% the security or confidentiality of the information you provide to us.”
+
+Conclusion  
+– Keep employs industry‑standard protections (encryption, SSL, secure servers) and offers deletion controls, but it explicitly disclaims any absolute guarantee of security or confidentiality. Therefore, while your data benefits from multiple safeguards, no system is infallible under this policy.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; are you storing any of my information?","Based on the excerpts you’ve provided from Keep’s Privacy Policy, Keep does collect and store certain categories of your personal information.  In particular:
+
+1. Core personal data for training  
+   • “We need your age, height and weight to calculate your consumption of calorie when you complete each training class.”  
+   – Keep therefore stores your age, height and weight.  
+
+2. Account-opening and profile information (section “For example, we may collect Personal Information …”)  
+   • Information you provide when opening a Keep account.  
+   • Profile data you make publicly visible (e.g. profile ID, name, photo).  
+
+3. Usage-related data  
+   • Location data and log data generated while you use Keep.  
+   • Information from your communications with customer support.  
+
+4. Purchase-related information  
+   • Any personal data (e.g. credit card or bank account details) you submit to complete a purchase.  
+   • Note: “Where the payment is processed by a third-party payment service provider, we do not collect or store such Personal Information, though we may receive summary information about transactions.”  
+
+Conclusion  
+– Yes. Keep collects and retains multiple types of your personal information, except that full payment-instrument details are handled by a third-party processor (Keep only receives transaction summaries).","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; do you access any of my contact's information?","Based solely on the excerpts you’ve provided:
+
+1. “Information you make available to us when you open a Keep account, as set out above”  
+2. “Where the payment is processed by a third‑party payment service provider, we do not collect or store such Personal Information, though we may receive summary information about transactions.”  
+
+– Neither clause refers to accessing or collecting your contacts’ information.  
+– No part of the supplied text indicates that Keep reads, imports or otherwise accesses data from your address book or contact lists.  
+
+Conclusion: There is no indication in the provided policy excerpts that Keep accesses any of your contacts’ information.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; does it save any of my health data?","Based solely on the excerpts you’ve provided:
+
+1. Data Collected  
+   • “We need your age, height and weight to calculate your consumption of calorie when you complete each training class.”  
+   – This shows Keep collects (i.e. “needs”) your age, height, and weight.
+
+2. Data Sharing  
+   • Keep may share “personal information” (which would include age, height, weight) in good-faith circumstances to satisfy legal or security requirements.
+
+3. No Explicit Storage/Retention Terms Provided  
+   • Nowhere in the provided text does Keep state that it “saves,” “stores,” or “retains” your health data (age, height, weight) beyond using it for calorie calculations.  
+   • Because the policy excerpt does not address data storage or retention, we cannot conclude whether Keep saves your health data.
+
+Conclusion  
+• The policy excerpt confirms collection (for calorie-use calculations) but does not explicitly state storage or retention practices. Additional policy language would be needed to determine if and how Keep saves your health data.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; can the app access my location?","Based solely on the excerpts you’ve provided from Keep’s privacy policy:
+
+• No mention of location data  
+  – The two sections you cited (public profile information and purchase‑related payment data) do not refer to GPS, IP‑based, or any other form of location tracking or collection.  
+
+• Insufficient information  
+  – Because the excerpts do not address location at all, we cannot conclude whether Keep may or may not access your location.  
+
+If you need to know Keep’s practices regarding location data, please refer to the portion of the policy that specifically covers “Location Information,” “Device Data,” or similar terminology.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; is any information shared with third parties?","Based solely on the excerpts you provided, Keep does not share your personal information with non-affiliated third parties unless you explicitly consent or take certain actions.  In particular:
+
+1. No sale of personal data  
+   • “Other than consented by you, we commit that we will not sell your personal information to any other third parties for their processing for any purposes.”  
+
+2. No disclosure or transfer to non-affiliated third parties except as you choose  
+   • “We will not disclose or transfer your personal information to any non-affiliated third parties, unless:  
+     – You may choose to share certain information.  
+     – In order to participate in certain features, you may have to adjust your Privacy settings and share more information.  
+     – You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+
+3. Sensitive data requires explicit consent  
+   • “We will ask for your explicit consent to share any sensitive personal information such as race, religion, sexual orientation, or health.”  
+
+4. Affiliates and payment service providers  
+   • Keep may share data with its affiliates or a payment service provider “where we or our affiliate companies process your payments … we may collect, use and store your Personal Information in order to fulfill such purchases.”  
+
+No other sharing to third parties is disclosed in the provided policy.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; can it access my other social media accounts?","Based solely on the excerpt you’ve provided:
+
+1. Registration Information (no mention of social accounts)  
+   • “To register, you may need to provide certain Personal Information, such as your name, mobile phone number, password, exercise goal and status.”  
+   – Context: Registration requirements  
+
+2. Data‑sharing promise (no exception for accessing your social accounts)  
+   • “We will not disclose or transfer your personal information to any non‑affiliated third parties, unless: …”  
+   – Context: Data‑sharing restrictions  
+
+Conclusion  
+• Nowhere in the provided text does Keep state that it will access or link to your other social media accounts.  
+• The excerpt contains no provisions authorizing such access.  
+
+Insufficiency of the record  
+• Because the policy fragment ends before any “unless” conditions are detailed, we cannot determine whether any later section permits social‑media access.  
+• Additional text would be needed to confirm or deny any such feature.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; what information will this app have access to of mine?","Based solely on the excerpts you provided from Keep’s Privacy Policy, Keep will collect or have access to the following categories of your personal information:
+
+1.  Registration-and-Profile Information  
+    •  Age, height and weight (to calculate calorie consumption)  
+    •  Name, mobile phone number, password, exercise goal and status  
+    •  Profile ID, name and photo (from your publicly visible Keep profile)  
+    (Context “We need your age…”, “To register, you may need…”, “Any information included in your publicly visible Keep profile…”)
+
+2.  Usage-Derived Information  
+    •  Contact list (if you share it via the “Recommended Friends” function)  
+    •  Location data and log data generated during your use of the app  
+    (Context “via your use of Keep … a) Your sharing of your contact list…”, “Information we collect in the course of you using Keep such as certain location data and log data”)
+
+3.  Purchase-Related Information  
+    •  Credit-card or bank-account details and purchase history when you buy within Keep  
+    •  Summary transaction information (if payment is processed by a third-party provider; Keep does not store your full payment details)  
+    (Context “Making purchases within Keep, including your credit card or bank details…”, “Where the payment is processed by a third-party… we do not collect or store such Personal Information, though we may receive summary information about transactions.”)
+
+4.  Customer-Support Communications  
+    •  Any information you provide when you contact Keep’s support team  
+    (Context “Information you provide through your communications with our customer support team.”)
+
+No other data categories are mentioned in the provided excerpts.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will the personal info i share with this app to sign up be shared with other companies, etc?","Based solely on the excerpts you’ve provided from Keep’s Privacy Policy:
+
+1. Sharing with affiliates or service providers  
+   - Keep (or its “affiliate companies”) may share your personal information when processing or fulfilling payments you’ve made on Keep.  
+     • Context reference: “Where we or our affiliate companies process your payments… we may collect, use and store your Personal Information in order to fulfill such purchases.”
+
+2. No disclosure to non‑affiliated third parties, except as you direct  
+   - Keep will not transfer your personal information to any non‑affiliated third party UNLESS one of the following applies (and only to the extent you choose):  
+     a. You voluntarily share certain information.  
+     b. You adjust your privacy settings to enable specific features.  
+     c. You choose to share your activity on other platforms (e.g., Facebook, Twitter, Instagram).  
+     • Context reference: “We will not disclose or transfer your personal information to any non‑affiliated third parties, unless: You may choose to share… In order to participate in certain features… You may also choose to share your activity on other platforms…”
+
+3. Automatic collections unrelated to third‑party sharing  
+   - Keep does automatically collect Log Data, Location Data, and (if you permit) access your contacts or photos—but that collection is for internal functionality and not a transfer to third parties per the provided text.
+
+Conclusion  
+• Other than necessary sharing with Keep’s affiliates for payment processing, your personal information will not be shared with non‑affiliated third parties unless you explicitly opt in or adjust settings as noted above.  
+• No further sharing is indicated in the provided excerpts.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will my workout data be given to anyone else or shared with anyone (i.e. insurance companies)?","Based solely on the excerpts you’ve provided from Keep’s Privacy Policy:
+
+1. No sale of your data without consent  
+   – “Other than consented by you, we commit that we will not sell your personal information to any other third parties for their processing for any purposes.”  
+   – Implication: Keep will not sell or “give” your workout (health) data to, for example, insurance companies, unless you have expressly agreed.
+
+2. Explicit consent required for sensitive health data  
+   – “We will ask for your explicit consent to share any sensitive personal information such as … health.”  
+   – Implication: before any workout or health data is shared outside Keep, you would need to opt-in.
+
+3. No transfer to non-affiliated third parties absent exception  
+   – “We will not disclose or transfer your personal information to any non-affiliated third parties, unless: …”  
+   – (The policy fragment you provided cuts off here.  No specific exception listing insurance companies appears in the text you supplied.)
+
+4. User-initiated sharing  
+   – You “may also choose to share your activity on other platforms,” e.g. Facebook or Instagram.  That is entirely at your discretion.
+
+Conclusion  
+Based on the provided language, Keep does not share or disclose your workout data to any third parties—including insurance companies—unless (a) you explicitly consent, (b) you choose to share on another platform, or (c) an exception (not fully shown) applies. There is no mention in your excerpts of automatic sharing with insurers.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; how well does keep protect my data and how do they do that?","Based solely on the excerpts you provided, Keep’s privacy policy describes several data‑protection measures and limitations.  In brief:
+
+1. Data‑protection measures  
+   a. Encryption & authentication  
+      • “We use a variety of security measures, including encryption and authentication tools, to help protect your information.”  
+        – (see context: security measures)  
+   b. Secure servers  
+      • “We use secure servers when you place orders.”  
+        – (see context: secure servers)  
+   c. SSL for payment data  
+      • “All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.”  
+        – (see context: SSL transmission and database encryption)  
+
+2. Data‑deletion & retention  
+   a. User‑initiated deletion  
+      • You may remove or delete individual content or your entire account yourself.  
+      • If you cannot delete something, you may contact support@gotokeep.com.  
+        – (see context: removal/deletion procedures)  
+   b. Retention for business, legal or backup reasons  
+      • “In some cases, we retain data for limited periods when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion…”  
+      • Deletions may be delayed while copies remain on active or backup systems.  
+        – (see context: retention and deletion delays)  
+
+3. Limitations & disclosures  
+   • “However, like other companies, we cannot guarantee 100% the security or confidentiality of the information you provide to us.”  
+     – (see context: no absolute guarantee)  
+   • “We maintain servers around the world and your information may be processed on servers located outside of the country where you live.”  
+     – (see context: international processing)  
+
+Assessment of “how well”  
+• Keep employs industry‑standard practices (encryption, SSL, authentication, secure servers) to protect data.  
+• They acknowledge residual risks (no 100% guarantee) and possible delays in complete deletion.  
+• The policy does not specify technical details (e.g., encryption algorithms, audit procedures) or measurable security‑performance metrics, so a more precise evaluation is not possible based on the provided text alone.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; can people see what workout list i'm using?","Based solely on the excerpt you provided (the “Payment Processing” section of Keep’s Privacy Policy):
+
+1. The excerpt explains that Keep (or its affiliates) may collect, use and store your Personal Information when processing payments for purchases.  
+2. It does not address any sharing or visibility of your workout lists to other users or the public.  
+
+Because the provided context says nothing about whether workout lists are visible to others, we cannot conclude from this text whether people can see which workout list you’re using. Additional sections of the privacy policy or the app’s terms of service would be needed to answer your question.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; can people see my workout log?","The excerpt you’ve provided addresses only how Keep collects, uses, and stores Personal Information to process and fulfill purchases. It does not speak to who can view your workout log.  
+
+• Cited provision: “Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases you have made on Keep, we may collect, use and store your Personal Information in order to fulfill such purchases.”  
+• Missing information: There is no statement in the supplied text about visibility or sharing of workout logs.  
+
+Conclusion: Based solely on the provided context, we cannot determine whether other users (or Keep) can see your workout log.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will they share my information with anyone?","Based solely on the excerpts you provided from Keep’s Privacy Policy:
+
+1. Sharing with Affiliates  
+   – “Where we or our affiliate companies process your payments as a payment service provider, or where we fulfill any purchases … we may collect, use and store your Personal Information in order to fulfill such purchases.”  
+   –  ⇒ Keep does share your information with its affiliate companies for the specific purposes of payment processing and order fulfillment.
+
+2. No Disclosure to Non-Affiliated Third Parties (Unless You Consent)  
+   – “We will not disclose or transfer your personal information to any non-affiliated third parties, unless:”  
+     a. You may choose to share certain information.  
+     b. “In order to participate in certain features, you may have to adjust your Privacy settings and share more information.”  
+     c. “You may also choose to share your activity on other platforms, such as Facebook, Twitter or Instagram.”  
+
+3. Summary Answer to Your Question  
+   – Keep does not proactively share your personal information with non-affiliated third parties.  
+   – It does share with its affiliates for payment and purchase-fulfillment purposes.  
+   – Any further sharing with outside parties only occurs if you explicitly opt in (e.g., via privacy-setting changes or by linking/sharing to social platforms).  
+
+No other sharing scenarios are described in the provided text.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will my location be monitored and shared?","Based solely on the excerpts you’ve provided, there is no mention of Keep collecting, monitoring, or sharing your location.  
+
+• The only types of Personal Information referenced are:  
+  1. Information in your publicly visible Keep profile (e.g. profile ID, name, photo)  
+  2. Payment information needed to complete purchases (e.g. credit card or bank account details)  
+
+• No clause in the supplied text refers to location data.  
+
+Conclusion:  
+• The provided policy language does not indicate that Keep monitors or shares your location.  
+• To determine whether Keep collects location information, you would need to review any additional sections of the privacy policy that specifically address “Location Data” or similar terminology.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; how is my information protected?","According to the excerpt of Keep’s privacy policy you provided, your information is protected as follows:
+
+1. Encryption and authentication  
+   • “We use a variety of security measures, including encryption and authentication tools, to help protect your information.”  
+
+2. Secure servers  
+   • “We use secure servers when you place orders.”  
+
+3. SSL protection for payment data  
+   • “All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.”  
+
+4. Data retention safeguards  
+   • In some cases, deleted content may remain in backups for a limited period “when it needs to be kept for legitimate business or legal purposes or to be protected from accidental or malicious deletion,” which may cause “delays between when you delete something and when copies are deleted from our active and backup systems.”  
+
+5. Global processing  
+   • “We maintain servers around the world and your information may be processed on servers located outside of the country where you live.”  
+
+6. Limitation of guarantee  
+   • “Like other companies, we cannot guarantee 100% the security or confidentiality of the information you provide to us.”  
+
+No other security practices are mentioned in the provided context.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; will any of my information be sold?","Based solely on the excerpts you’ve provided from Keep’s Privacy Policy:
+
+1. No Sale to Third Parties  
+   – “We will not disclose or transfer your personal information to any non‑affiliated third parties, unless…”  
+     • This statement (see “We will not disclose…” section) indicates that Keep does not sell or otherwise transfer your data to unaffiliated entities.  
+
+2. User‑Initiated Sharing  
+   – The only circumstances in which your information leaves Keep are when you affirmatively choose to share it (e.g., enabling certain features or posting to Facebook, Twitter, Instagram).  
+
+3. Insufficient Information on “Sale”  
+   – The policy excerpts make no mention of “selling” personal information.  
+   – There is no language suggesting Keep engages in any data‑selling activities.  
+
+Conclusion  
+Based on the provided text, Keep does not sell your personal information.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; do you know my location","Based solely on the excerpts you’ve provided from Keep’s Privacy Policy, there is no indication that Keep collects or makes available your geographic location. Specifically:  
+1. Publicly visible profile data (profile ID, name, photo) does not include location.  
+2. Purchase-related Personal Information (credit card information, bank account information) likewise does not include location.  
+
+Because “location” is not listed among the data types in either excerpt, we have no basis to conclude that Keep knows your location from the provided policy language.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; do you keep and upload my activity to your database","Based solely on the single‐sentence excerpt you’ve provided, here is what can be stated:
+
+1. Retention of Uploaded Training Information  
+   – “We value your every uploaded training information…” indicates that Keep does retain (i.e. “keep”) any training data you choose to upload.  
+   – The stated purpose is “to better understand which training class is more helpful to you.”  
+
+2. Uploading to a Database  
+   – By retaining your uploaded training information, Keep necessarily stores it in some form of backend database or analytics system.  
+   – There is no additional detail in the provided text about how long this data is stored, how it is secured, or whether any other activity (beyond “uploaded training information”) is tracked or uploaded.  
+
+3. Limitations of the Provided Context  
+   – The excerpt does not specify:  
+     • Any other types of user activity that may be collected or uploaded  
+     • Data‐sharing policies with third parties  
+     • Retention periods or deletion rights  
+     • Security or access safeguards  
+
+Unless further sections of the privacy policy are supplied, we cannot confirm more than the fact that Keep “keeps” and uses your uploaded training information for the stated analytical purpose.","privacy_qa/Keep.txt"
+"Consider ""Keep""'s privacy policy; do you use my data to modify the app","Based solely on the excerpts you provided from Keep’s Privacy Policy:
+
+1. Do you use my data to modify the app?  
+   – The policy states you use data to:  
+     • “Ensure our services are working as intended, such as troubleshooting issues reported from you.”  
+     • “Develop new services.”  
+     • “Create and update more popular training classes for you to take.”  
+     • “Customize our services for you” (e.g. by recommending advanced classes based on updated weight and body measurements).  
+     (See context lines 1–5 and lines 7–8.)
+
+2. What this does—and does not—tell us:  
+   • It expressly authorizes using your data to improve and expand “services” (including training-class content) and to troubleshoot existing features.  
+   • It does not explicitly state that your data will be used to modify the underlying app software, user interface, or code base.  
+
+Conclusion  
+– You will see your data used to refine and extend Keep’s services (e.g. adding or updating training classes), but the provided text does not specifically confirm that your data is used to change the app’s underlying software or structure.","privacy_qa/Keep.txt"

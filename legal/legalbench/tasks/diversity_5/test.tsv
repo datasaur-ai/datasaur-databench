@@ -1,0 +1,11 @@
+aic_is_met	answer	index	parties_are_diverse	text
+True	No	261	False	William is from California. Oliver is from Rhode Island. Amelia is from California. William and Oliver both sue Amelia for trespass for $60,000 and copyright infringement for $74,000.
+False	No	293	True	Oliver is from North Carolina. Liam is from Indiana. James is from Oregon. Oliver and Liam both sue James for copyright infringement for $72,000 and wrongful eviction for $1,000.
+False	No	61	False	Emma is from Idaho. Noah is from Oklahoma. Henry is from Oklahoma. Emma and Noah both sue Henry for patent infringement for $4,000 and copyright infringement for $32,000.
+True	No	253	False	Henry is from New Jersey. Charlotte is from Tennessee. Theodore is from New Jersey. Henry and Charlotte both sue Theodore for legal malpractice for $40,000 and breach of contract for $70,000.
+True	Yes	166	True	Lucas is from Illinois. Sophia is from Tennessee. Olivia is from Minnesota. Lucas and Sophia both sue Olivia for copyright infringement for $24,000 and trespass for $83,000.
+False	No	26	True	William is from Utah. Ava is from Wyoming. Amelia is from Kansas. William and Ava both sue Amelia for breach of contract for $3,000 and medical malpractice for $29,000.
+True	Yes	127	True	Theodore is from Ohio. Oliver is from Maryland. Isabella is from Massachusetts. Theodore and Oliver both sue Isabella for legal malpractice for $43,000 and defamation for $40,000.
+False	No	284	True	Amelia is from West Virginia. Mia is from Utah. Liam is from South Dakota. Amelia and Mia both sue Liam for defamation for $2,000 and negligence for $64,000.
+True	Yes	19	True	Ava is from West Virginia. Noah is from South Dakota. Elijah is from New Hampshire. Ava and Noah both sue Elijah for wrongful eviction for $65,000 and trademark infringement for $57,000.
+True	Yes	254	True	Harper is from Wyoming. Benjamin is from Nebraska. Noah is from Rhode Island. Harper and Benjamin both sue Noah for copyright infringement for $69,000 and medical malpractice for $35,000.

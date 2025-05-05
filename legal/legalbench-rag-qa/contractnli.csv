@@ -1,0 +1,369 @@
+"prompt","expected completion","source_file"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Based on the provided clause, the Agreement explicitly does **not** grant the Receiving Party any proprietary rights in the Confidential Information.  Specifically:
+
+1. “Any and all proprietary rights … in and to any Confidential Information shall be and remain with the Participants respectively”  
+2. “Mentor shall not have any right, license, title or interest in or to any Confidential Information, except the limited right to review, assess and help develop such Confidential Information in connection with the Copernicus Accelerator 2017.”
+
+These provisions make clear that, apart from the narrow permission to review, assess and help develop the materials for the Accelerator, the Receiving Party acquires no rights, licenses, title or interest in the disclosed Confidential Information.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document state that Confidential Information shall only include technical information?","No. The definition of “Confidential Information” is not limited to technical information.  Instead, it expressly encompasses both technical and non‑technical categories.  Specifically, it includes (but is not limited to):
+
+  1. Any Idea disclosed to Mentor  
+  2. All data and information  
+  3. Know‑how  
+  4. Business concepts  
+  5. Software  
+  6. Procedures  
+  7. Products  
+  8. Services  
+  9. Development projects and programmes contained in such Idea and/or its description  
+  10. Any conclusions
+
+Source: Definition of “Confidential Information” in the provided context.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?","Yes. The Agreement expressly provides that certain duties survive termination.  In particular, it states:  
+
+• “Notwithstanding the termination of this Agreement, any Confidential Information must be kept confidential for as long as such Confidential Information is not publicly known unless it becomes part of the public domain through no wrongful act of Mentor.”  
+
+This clause confirms that the obligation of confidentiality continues beyond the Agreement’s termination.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?","Based solely on the excerpts provided:
+
+1. Section (d) requires the Receiving Party (“Mentor”) to “erase and/or destroy any Confidential Information contained in computer memory or data storage apparatus ….”  
+2. Section (e) requires Mentor to “remove the Confidential Information from any software or data base … that incorporates or uses the Confidential Information in whole or in part.”
+
+No carve‑out or retention exception is stated. Therefore, the document does **not** permit the Receiving Party to retain any Confidential Information once it has been returned or destroyed.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?","Based solely on the single clause you’ve provided, the Receiving Party (Mentor) may not share any Confidential Information with third parties—whether consultants, agents, professional advisors, employees or an employer—unless and until it obtains the Participants’ prior written consent.  
+
+• Quoted Provision:  
+  “Mentor shall not disclose any Confidential Information to any third party or to Mentor’s employees and/or employer without the prior written consent of the Participants.”
+
+• Conclusion:  
+  – No general exception is stated for consultants, agents or professional advisors.  
+  – Sharing is permitted only upon securing the Participants’ prior written consent.  
+
+**Note:** If there are other sections in the Agreement (e.g., carve-outs for “Representatives” or “Professional Advisors”) they have not been provided here; based on the clause at hand, no such sharing is allowed absent written consent.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?","Yes. Under the Agreement’s “Mandatory Disclosure” provision, the Receiving Party must notify the Disclosing Party if it is compelled by law, regulation or a non‑appealable judicial or administrative order to disclose Confidential Information. Specifically:  
+
+1. “If Mentor is required by mandatory, non‑appealable judicial or administrative process and/or order to disclose Confidential Information, then Mentor shall promptly notify Organiser and allow Organiser and the Participants reasonable time to oppose such process unless this is not admissible under a mandatory law, judicial or administrative order.”  
+   – (Context provision, first sentence)  
+
+2. This imposes two duties on the Receiving Party (“Mentor”):  
+   a. Promptly notify the Disclosing Party (“Organiser”) of the disclosure requirement.  
+   b. Give the Disclosing Party and Participants a reasonable opportunity to challenge or limit the required disclosure.  
+
+3. The only exception is where notification itself is prohibited by a binding law or order.  
+
+Because this language is taken directly from the provided context, no further information is needed to confirm that the Agreement does indeed require notification in the circumstances described.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?","Based on the cited exclusion, the Agreement expressly permits the Receiving Party to obtain and use information “similar” to the Discloser’s Confidential Information so long as that information is:
+
+1. Received from a third party; and  
+2. That third party was under no obligation (contractual, fiduciary or otherwise) restricting its right to disclose the information.
+
+Citation: “Confidential Information does not include . . . information received from a third party who was free to disclose such information.”","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document allow the Receiving Party to share some Confidential Information with their employees?","Based solely on the provided clause, the Receiving Party may not share Confidential Information with its employees unless and until it obtains the Participants’ prior written consent.  
+
+• “Mentor shall not disclose any Confidential Information to any third party or to Mentor’s employees and/or employer without the prior written consent of the Participants.”  
+• In other words, disclosure to employees is explicitly prohibited absent that written consent.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider the Non-Disclosure Agreement between CopAcc and ToP Mentors; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?","Yes. Under the Agreement’s confidentiality clause, the Mentor “shall not use any Confidential Information for any purpose except to review, assess and help develop the Participants’ Ideas.”  In other words, use of Confidential Information is expressly limited to the three stated purposes:  
+  1. Reviewing the Participants’ Ideas  
+  2. Assessing the Participants’ Ideas  
+  3. Helping to develop the Participants’ Ideas  
+
+No other use is permitted.","contractnli/CopAcc_NDA-and-ToP-Mentors_2.0_2017.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Yes. Section 5 (“No Further Rights”) of the Agreement expressly provides that:  
+  1. “All Confidential Information is and shall remain the property of Disclosing Party.”  
+  2. “Nothing contained in this Agreement shall be construed to as granting or conferring any rights in the Confidential Information except as provided herein.”  
+
+Accordingly, the Agreement does not grant the Receiving Party any rights to the Confidential Information beyond those narrow rights of use and disclosure specifically set forth in the Agreement itself.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?","Yes. Section “Confidentiality of Negotiations” (or similarly-titled provision) provides:  
+  • “The existence of any business negotiations, discussions, consultations, or agreements in progress between the parties shall not be released to any form of public media, unless agreed between the parties in writing.”  
+
+This clause explicitly prevents the Receiving Party from disclosing—even the fact—that the parties are negotiating or have executed the Agreement, absent a separate written consent.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?","No. The provided definition makes clear that “Confidential Information” is far broader than just technical information.  In particular:
+
+  1. The definition begins with “includes, without limitation,” indicating a non‑exhaustive list.  
+  2. It specifically enumerates categories in addition to technical information, for example:  
+     • Non‑public information about released or unreleased software products  
+     • Marketing or promotion plans  
+     • Business policies or practices  
+     • Financial information  
+     • Computer systems and infrastructure designs  
+     • Data, analyses, compilations, studies or other documentation  
+  3. Technical information is only one of many listed categories.
+
+Thus, the Agreement does **not** state that Confidential Information shall only include technical information (see “includes, without limitation, … financial information, technical information, … studies or other documentation,” as quoted).","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document require that all Confidential Information be expressly identified by the Disclosing Party?","Based on the sole definition provided:  
+
+1. Under “Confidential Information” the Agreement covers two categories of information:  
+   a. Information that the Disclosing Party “designates as being confidential,” and  
+   b. Information which, “under the circumstances surrounding disclosure the Receiving Party should know is treated as confidential by the Disclosing Party.”  
+
+2. There is no clause in this definition (or elsewhere in the excerpt) requiring that *all* Confidential Information be *expressly* identified in writing or otherwise formally marked.  By its plain terms, information may be confidential either by express designation or by its nature and the context in which it is shared.  
+
+3. Absent additional provisions (not provided), the Agreement does **not** limit confidentiality solely to information explicitly marked or listed by the Disclosing Party.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?","Yes. Under Section (iv) of the “Excluded Information” definitions, any information that the Receiving Party “independently develop[s] … without access to the Disclosing Party’s information” is not treated as Confidential Information—and thus may be developed and used freely. (See “Confidential Information shall not include any information that: … (iv) is independently developed by Receiving Party without access to the Disclosing Party’s information.”)","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?","Based solely on the language you’ve provided, the Agreement does **not** permit the Receiving Party to keep any Confidential Information once the Disclosing Party demands its return or destruction.  In particular:  
+
+1.   “Upon the request of the Disclosing Party, Receiving Party shall return all originals, copies, reproductions and summaries of Confidential Information…”  
+2.   “…or at Disclosing Party’s option, certify destruction of the same.”  
+
+There is no carve-out or reservation allowing the Receiving Party to retain copies or summaries after complying with such a request.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?","Yes. Under section (v) of the Agreement’s definition of “Confidential Information,” if the Receiving Party is required by law, regulation, or governmental or judicial process to disclose any Confidential Information, it may do so only “so long as the other party is provided notice of such requirement prior to any such disclosure.”  
+   
+• Source: Section (v) (“the Confidential Information is required to be disclosed pursuant to a requirement of a governmental agency or law so long as the other party is provided notice of such requirement prior to any such disclosure”).","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?","Yes.  Under the M.N.D.A. as provided:
+
+1. Section (iii) carve-out  
+   - “Confidential Information shall not include any information that… became known to Receiving Party from a source other than Disclosing Party other than by the breach of an obligation of confidentiality owed to Disclosing Party.”  
+   - ⇒  If the Receiving Party lawfully acquires similar information from a third party (who is not in breach of any confidentiality duty to the Disclosing Party), that information is not treated as “Confidential Information.”
+
+2. Freedom to deal with third parties  
+   - “The parties expressly agree that the provision of Information hereunder and discussions held in connection with the Transaction shall not prevent either party from pursuing similar discussions with third parties…”  
+   - ⇒  The Receiving Party may continue or initiate discussions with others and receive similar or competing information without violating this Agreement.
+
+Together, these provisions permit the Receiving Party to obtain information similar to the Disclosing Party’s Confidential Information so long as it comes from a third-party source that is not breaching any confidentiality obligation to the Disclosing Party.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?","Yes. Under the Mutual Non‑Disclosure Agreement’s confidentiality obligations clause, the Receiving Party may disclose Confidential Information to its employees so long as both of the following conditions are met:  
+
+  1. The employee “needs to know” the Confidential Information in order to perform work for the Receiving Party; and  
+  2. The employee has previously agreed—either as a condition of employment or to receive the Confidential Information—to be bound by terms and conditions “substantially similar to those of this Agreement.”  
+
+(See Confidentiality Obligations clause, first sentence.)","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider DBT's Mutual Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?","Yes. The Agreement provides:  
+   “Each party agrees that it shall not make use of, disseminate, or in any way disclose any Confidential Information of the Disclosing Party to any person, firm, or business, except to the extent necessary for the Transaction.”  
+
+By its plain wording, this clause confines all use, dissemination and disclosure of Confidential Information solely to the “Transaction” described in the Agreement.","contractnli/DBT%20Mutual%20NDA.txt"
+"Consider the Data Use Agreement in New York City; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?","Yes.  Under the terms you’ve provided:
+
+1. Section 2 (“Upon the termination of this Agreement…”):  
+   • “Except as provided in paragraph (3) of this subsection, upon termination of this Agreement, for any reason, Data Recipient shall return or destroy the Data provided by DOHMH that Data Recipient maintains in any form, and all copies of the Data in all its forms.”  
+
+2. Section 3 (exception for infeasibility):  
+   • If return or destruction of all Data and copies is “infeasible,” the Data Recipient must notify DOHMH of the reasons.  
+   • Upon such notification, the Data Recipient must continue to apply this Agreement’s confidentiality protections to the retained Data and limit its use and disclosure to purposes that made return or destruction infeasible.  
+
+Conclusion: Yes—the Agreement requires the Receiving Party to return or destroy all Confidential Information upon termination (Section 2), subject only to the infeasibility exception in Section 3.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Yes. The Agreement expressly states that the Receiving Party receives no rights in the Confidential Information.  In particular:  
+
+• “The Data Recipient hereby acknowledges that the DOHMH is the exclusive owner of the Data and all trade secrets and other rights therein.  
+• No license or conveyance of any such rights is granted or implied under this Agreement.”  
+
+(“Context,” supra)","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?","Yes.  The Agreement expressly provides that certain obligations survive its termination or expiration:
+
+1. Confidentiality Provisions  
+   - “Upon the termination of this Agreement for any reason, the confidentiality provisions set forth herein shall continue to apply to the Data shared with Data Recipient pursuant to this Agreement.” (Section 2)
+
+2. All Other Provisions  
+   - “Upon the Expiration of this Agreement, only the continued use of Data for the purposes set forth in Attachment B will cease. All other provisions of this Agreement, including this Section V, shall survive.” (Section 2)","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?","Yes. Section 3 of the Agreement expressly contemplates that, if “returning or destroying all of the Data, and all copies of the Data, is infeasible,” the Recipient may retain whatever Data it cannot return or destroy, provided it does the following:
+
+1. Notification (Section 3)  
+   – The Data Recipient must notify DOHMH of the conditions that make return or destruction infeasible.
+
+2. Continued Protections (Section 3)  
+   – Upon DOHMH’s receipt of that notification, the Data Recipient must extend all of this Agreement’s confidentiality protections to the retained Data.
+
+3. Limited Uses and Disclosures (Section 3)  
+   – The Data Recipient may use or disclose the retained Data only “for those purposes that make the return or destruction infeasible” and only for as long as it maintains that Data.
+
+No other provisions in the provided excerpt permit broader retention or use once Data is returned or destroyed.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?","Based solely on the two provisions you’ve supplied:
+
+1. Access is limited to “Authorized Users” only  
+   •   Per Paragraph 1, only the Data Recipient’s employees or consultants who (a) need the Data to perform this Agreement’s functions (see Attachment B) and (b) are specifically designated as “Authorized Users” in Attachment C may access the Data.  
+
+2. No rights or access for any other third parties  
+   •   Per Paragraph A (“No Third‑Party Beneficiaries”), the Agreement “shall not… confer upon any person other than the Parties any rights, remedies, obligations, or liabilities.”  
+
+Conclusion  
+•   The Agreement does **not** permit the Receiving Party to share Confidential Information with third parties—whether described as consultants, agents, professional advisors or otherwise—unless they are (i) the Recipient’s own employees/consultants, (ii) expressly required to use the Data to perform this Agreement, and (iii) designated in Attachment C as “Authorized Users.”  
+•   Any sharing outside that narrow class would conflict with both the Authorized‑User limitation and the “No Third‑Party Beneficiaries” clause.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?","Based solely on the excerpt provided:
+
+1. Reproduction Prohibited by Default  
+   “Except as set forth in Section III, Data Recipient shall not reproduce the Data in any form without the prior written consent of DOHMH.”  
+
+2. Limited Exception in Section III  
+   – The clause expressly carves out an exception (“Except as set forth in Section III”), which implies that Section III describes circumstances under which the Receiving Party may reproduce or copy Confidential Information without prior written consent.  
+
+3. Insufficient Information  
+   – Because the text of Section III is not included in your context, we cannot determine:  
+     • What specific types of reproduction are allowed  
+     • Under what conditions or safeguards such copying may occur  
+     • Any limits on the scope, format, or use of copies  
+
+Conclusion  
+– Yes, the Agreement does permit the Receiving Party to reproduce (i.e., create copies of) Confidential Information—but only to the extent and under the conditions expressly set forth in Section III.  
+– Without the actual language of Section III, we cannot detail those circumstances.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document allow the Receiving Party to share some Confidential Information with their employees?","Based solely on the excerpt you’ve provided:
+
+1. Yes.  Section 1 expressly contemplates that the Receiving Party (the “Data Recipient”) may share Confidential Information (the “Data”) with certain employees and consultants, but only if all of the following conditions are met:  
+   • They are required to use the Data to perform the functions set forth in Attachment B; and  
+   • They have been designated by the Data Recipient as “Authorized Users” in Attachment C.  
+
+No other employees or third parties may access the Data under this provision.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Data Use Agreement in New York City; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?","Yes. Under the excerpted terms of the Data Use Agreement:
+
+1. “Use” restriction (Section A):  
+   - “Data Recipient agrees to use the Data solely for the purposes set forth in Attachment B to this Agreement, and for no other purposes.”  
+
+2. “Disclosure” restriction (same paragraph):  
+   - “Except as otherwise provided in this Agreement, Data Recipient shall not… directly or indirectly disclose, share, give, loan, sell, or otherwise grant access to the Data… to any other person or organization.”
+
+Taken together, these provisions expressly limit any use or sharing of the (confidential) Data to only those purposes listed in Attachment B and prohibit all other uses or disclosures.","contractnli/Data Use Agreement New York City.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document specify whether the Receiving Party is required to destroy or return Confidential Information upon the termination of the Agreement?","Based solely on the provided context (Section 3):
+
+• Section 3 states that “All CONFIDENTIAL INFORMATION furnished hereunder shall be returned at the conclusion of each meeting between Vendor and the State.”  
+  – This imposes a return obligation after each meeting.  
+  – No destruction requirement is mentioned.  
+
+• There is no language in the excerpt regarding the return or destruction of Confidential Information upon termination of the Agreement itself.  
+
+Conclusion: Section 3 requires return of Confidential Information at the end of each meeting but does not address return or destruction upon termination of the Agreement.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Yes. Section 2 of the Agreement expressly states that “no license under any trademark, patent, copyright, mask work protection right or any other intellectual property right is either granted or implied by conveying Confidential Information to Vendor.” By this clause, the Receiving Party (Vendor) receives no rights—whether express or implied—to the disclosed Confidential Information.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document state that Confidential Information shall only include technical information?","Based solely on the provided excerpt:
+
+1. Section Quoted (WHEREAS clause):  
+   “...certain specifications, designs, plans, drawings or other business and/or technical information which is proprietary, restricted or secret, and confidential to the State (‘CONFIDENTIAL INFORMATION’).”
+
+2. Analysis:  
+   - The definition expressly covers both “business” and “technical” information.  
+   - It does **not** limit “Confidential Information” to technical information alone.
+
+3. Conclusion:  
+   No. The document does **not** state that Confidential Information shall only include technical information; it explicitly includes business information as well.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?","Yes. The Agreement explicitly provides that certain obligations survive termination:
+
+• Section 5 – “The obligations of this Agreement with respect to the disclosure and use of CONFIDENTIAL INFORMATION shall survive for a period of three (3) years from the date of last disclosure.”  
+• Section 6 – “The parties recognize and agree that the obligations under paragraphs 1 and 6 of this Agreement shall survive the termination of this Agreement, and the parties shall be bound by such obligations after termination hereof.”","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?","According to the carve‑out in clause (i) of the Agreement’s confidentiality exclusions, the Receiving Party (here, “Vendor”) may independently develop information—even if it is similar to the Discloser’s Confidential Information—and such independently‑developed information will not be subject to the NDA’s use or disclosure restrictions.  
+
+Relevant text (clause i):  
+“These restrictions on the use or disclosure of CONFIDENTIAL INFORMATION shall not apply to any CONFIDENTIAL INFORMATION … which is independently developed by Vendor … .”  ","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?","Based solely on the excerpt you provided:
+
+1. Permitted recipients  
+ – The Vendor (Receiving Party) may disclose Confidential Information only to its employees who have a “need to know” and who have been informed of the NDA’s obligations.  
+2. Prohibition on third-party disclosures  
+ – The Vendor “shall not disclose such Confidential Information to any third party without prior written approval of the State.”  
+3. Implication for consultants, agents, professional advisors  
+ – Because consultants, agents and professional advisors are “third parties,” disclosure to them is forbidden unless the State gives prior written approval.
+
+Conclusion:  
+The NDA does not automatically allow sharing Confidential Information with consultants, agents or professional advisors. Any such disclosure requires the State’s prior written consent. 
+
+Citation:  
+– “Vendor … shall not disclose such CONFIDENTIAL INFORMATION to any third party without prior written approval of the State.”","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to acquire information similar to the Confidential Information from a third party?","Based solely on the excerpt you’ve provided, the Agreement carves out an express exception for information “lawfully received free of restriction from another source.”  In particular:
+
+1.  Exception for Third‑Party Sources (Clause i)  
+    – “This restriction on the use or disclosure of CONFIDENTIAL INFORMATION shall not apply to any CONFIDENTIAL INFORMATION … which … is lawfully received free of restriction from another source having the right to so furnish such CONFIDENTIAL INFORMATION.”  
+    – In other words, if the Receiving Party (here, Vendor) obtains the same or similar information from a third party who is under no confidentiality obligation, the Agreement does not prohibit its use or further disclosure.
+
+2.  Scope of the Exception  
+    – The third party must have an unfettered right to disclose the information.  
+    – Information must truly be “free of restriction” at the time of receipt.
+
+3.  No Other Excerpts Contrary to This Exception  
+    – Based on the provided text, there are no additional provisions in your excerpt that override or limit this exception.
+
+Conclusion: Yes.  Under Clause i of the exclusions, the Receiving Party may acquire and use information similar to the Confidential Information so long as it is lawfully received from a third party who has the right to furnish it.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document allow the Receiving Party to share some Confidential Information with their employees?","Based on the clause you’ve provided:
+
+1. Permitted Employee Disclosures  
+   - “Vendor shall restrict disclosure of such CONFIDENTIAL INFORMATION to its employees with a need to know (and advise such employees of the obligations assumed herein)…”  
+     • The Receiving Party (here, the “Vendor”) may share Confidential Information with its own employees, but only those who have a legitimate “need to know.”  
+     • Before disclosure, the Vendor must inform those employees of the NDA’s confidentiality obligations.
+
+2. Prohibition on Third-Party Disclosures  
+   - “…and shall not disclose such CONFIDENTIAL INFORMATION to any third party without prior written approval of the State.”  
+     • Disclosure to anyone other than the Vendor’s need-to-know employees is prohibited unless the State gives prior written consent.
+
+Conclusion  
+Yes. The NDA explicitly permits the Receiving Party to share Confidential Information with its employees, provided those employees:  
+  a. Have a bona fide need to know, and  
+  b. Are advised of (and therefore bound by) the NDA’s confidentiality obligations. Any other disclosures require the State’s prior written approval.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider the Non-Disclosure Agreement between DoiT and ICN; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?","Based on the clause you’ve provided, the Agreement does indeed limit the use of Confidential Information to the specific purpose set forth therein:
+
+1. Purpose Restriction (Clause 1)  
+   • “Vendor shall use such CONFIDENTIAL INFORMATION only for the purpose of discussing street level route information for the State’s fiber optic network data points and paths with the State’s support team in discussions regarding the State’s fiber project.”  
+
+Because no other uses are authorized in the excerpt you supplied, the document, as drafted, confines the Vendor’s use of all Confidential Information strictly to that fiber‑project discussion. If there are other uses or exceptions, they would need to appear in additional provisions not included here.","contractnli/DoiT-ICN-NonDisclosure-Agreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Yes. The Agreement expressly states that the Receiving Party is not granted any rights in the Confidential Information beyond those it expressly recites. Specifically:
+
+1. “The disclosing party reserves all rights in its Confidential Information and no rights or obligations other than those expressly recited herein are granted or to be implied from this Agreement.” (Context)  
+2. “In particular, no licence is hereby granted directly or indirectly under any patent, invention, discovery, copyright or other industrial property right now or in the future held, made, obtained or licensable by the other party.” (Context)
+
+Together, these provisions confirm that the Agreement does not confer any ownership, license, or other rights in the Confidential Information to the Receiving Party.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?","Yes.  The Agreement expressly prohibits the Receiving Party from disclosing even the fact that the Agreement exists or was negotiated without prior written consent.  In particular:
+
+•  “EFCA agrees to keep the existence and nature of this Agreement confidential…”  
+•  “…not to use the same or the name of the disclosing party … in any publicity, advertisement or other disclosure with regard to this Agreement without the prior written consent of the disclosing party.”
+
+Because it covers the “existence and nature” of the Agreement itself, the Receiving Party may not reveal that negotiations occurred or that the Agreement was entered into, unless and until the disclosing party provides written permission.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?","No. Section A expressly defines “Confidential Information” broadly—it is not limited to technical information.  In particular:  
+1.  “Confidential Information means any and all information which is now or at any time disclosed to one party by the other party and shall include without limitation, data, know-how, formulae, recipes, processes, designs and design rights, photographs, drawings, plans, intentions, product information, trade secrets, market opportunities, specifications, manufacturing data…” (Section A)  
+2.  The phrase “including but not limited to” makes clear that the list is illustrative, not exhaustive, and covers both technical and non-technical business information.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document mention that some obligations of the Agreement may survive the termination of the Agreement?","Yes. Section 3.1.2 of the EFCA Non‑Disclosure Agreement states that, “notwithstanding the completion of any purpose for which any Confidential Information has been disclosed or the return of documents and materials as aforesaid, [EFCA shall] continue to be bound by the undertakings set out in clauses 2, 4 and 5.”  
+
+• This language expressly provides that the obligations in clauses 2, 4 and 5 survive the completion or termination of the Agreement.  
+• No additional “survival” clause is needed to extend those specific duties beyond the Agreement’s end.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to independently develop information that is similar to the Confidential Information?","Based solely on the excerpt you’ve provided, the Agreement expressly permits the Receiving Party (here, EFCA) to independently develop information—even if that information resembles the Disclosing Party’s Confidential Information—so long as EFCA can demonstrate that its development was:  
+  • Made “at any time independently of any information disclosed to it by the Disclosing Party.”  
+  • Undertaken by EFCA or its principals.  
+
+This exclusion is set out in:  
+  • Section 1.2.2 (“to have been developed by EFCA, or EFCA’s principals, at any time independently of any information disclosed to it by the disclosing party”).  
+
+Because such independently developed material is excluded from the definition of “Confidential Information,” EFCA may use or disclose it without restriction under this Agreement.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to retain some Confidential Information even after its return or destruction?","Based solely on Section 3.1.1 of the provided NDA excerpt:  
+
+• Section 3.1.1 requires the Receiving Party, “immediately upon receipt of a written request …,” to  
+  – return all documents and materials (and all copies) containing the Disclosing Party’s Confidential Information, and  
+  – certify in writing that it has complied with this return requirement.  
+
+• No carve‑out or exception is stated in Section 3.1.1 for the Receiving Party to retain any Confidential Information after such return.  
+
+• Because only Section 3.1.1 is before us and it contains no retention exception, the document—as provided—does not permit the Receiving Party to retain any Confidential Information once requested to return it.  
+
+If there are other sections (e.g., relating to archival copies or legal hold obligations), they have not been supplied and thus cannot be considered.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with third parties, including consultants, agents, and professional advisors?","Based solely on the excerpts you’ve provided, EFCA’s NDA does not permit the Receiving Party to disclose Confidential Information to third parties such as consultants, agents, or professional advisors.  In particular:
+
+1.   “EFCA shall ensure that disclosure of such Confidential Information is restricted to those employees or directors of EFCA and EFCA’s principals having the need to know the same.”  
+     – Disclosure is limited to in-house personnel and principals only.  
+2.   Section 4.1.1 expressly states that EFCA “shall not divulge the disclosing party’s Confidential Information, in whole or in part, to any third party.”  
+
+Because consultants, agents, and professional advisors are not employees, directors, or principals of EFCA, they fall outside the narrow class of permitted recipients and therefore may not receive Confidential Information under this agreement.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document permit the Receiving Party to create a copy of some Confidential Information under certain circumstances?","Yes. Under the NDA’s “Copies or Reproductions” clause:  
+1. The Receiving Party may reproduce Confidential Information “to the extent reasonably necessary” to fulfill its obligations under the Agreement.  
+2. Any such copies “shall be the property of the Disclosing Party.”  
+
+Since the clause explicitly permits reproductions when reasonably necessary (and requires those copies to be returned or destroyed as the Disclosing Party directs), the Receiving Party is allowed to make copies—but only within that narrowly defined scope.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document require the Receiving Party to notify the Disclosing Party if they are required by law, regulation, or judicial process to disclose any Confidential Information?","Yes.  Under the quoted provision, any Party (here “EFCA”) who, as Receiving Party, must disclose Confidential Information by law, regulation or judicial process “shall be entitled to make any disclosure … provided that it gives the disclosing party not less than two business days’ notice of such disclosure.”  (See provided text.)  Thus, the Receiving Party must notify the Disclosing Party at least two business days in advance of any compelled disclosure.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document allow the Receiving Party to share some Confidential Information with their employees?","Yes. Under the NDA’s confidentiality obligations, the Receiving Party may disclose Confidential Information to its own employees (or directors and principals) but only to those who both:  
+  1. Have a “need to know” the information in order to perform their duties; and  
+  2. Are bound by at least the same level of confidentiality as set out in the Agreement.  
+
+Citation: “EFCA shall ensure that disclosure of such Confidential Information is restricted to those employees or directors of EFCA and EFCA’s principals having the need to know the same.”","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider EFCA's Non-Disclosure Agreement; Does the document restrict the use of Confidential Information to the purposes stated in the Agreement?","Based solely on the excerpt you’ve provided (Section 4.1.2):
+
+• Section 4.1.2 states that EFCA shall “make no commercial use of [Confidential Information] or any part thereof without the prior written consent of the disclosing party.”  
+• By prohibiting any commercial use absent that consent, the clause effectively limits EFCA’s use of Confidential Information to the purposes set forth in the Agreement (or any other uses the disclosing party later approves in writing).
+
+If you need to know whether non-commercial uses are similarly restricted or whether other limitations apply, you’ll need to review the remainder of Article 4 (and any definitions of “Permitted Purpose” or related terms)—those provisions are not included in the excerpt.","contractnli/EFCAConfidentialityAgreement.txt"
+"Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document indicate that the Agreement does not grant the Receiving Party any rights to the Confidential Information?","Yes. The Agreement expressly provides that the Receiving Party acquires no rights in the Disclosing Party’s Confidential Information. In particular:  
+
+1. “All Confidential Information disclosed by the Disclosing Party to the Receiving Party is acknowledged by the Receiving Party to be proprietary to and the exclusive property of the Disclosing Party.”  
+2. “This Agreement shall not confer any rights of ownership or license on the Receiving Party of whatever nature in the Confidential Information.”  
+
+(See section 6.4.) No other provision grants the Receiving Party ownership, license or any other rights in the Confidential Information.","contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+"Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document include a clause that prevents the Receiving Party from disclosing the fact that the Agreement was agreed upon or negotiated?","Yes. Under clause 6.3 of the Agreement:  
+  1. The Receiving Party may not disclose any “Confidential Information” without the Disclosing Party’s prior written consent.  
+  2. “Neither Party will make or issue any formal or informal announcement or statement to the press or any Third Party in connection with this Agreement without the prior written consent of the other Party.”  
+
+Accordingly, the Agreement expressly forbids either party from revealing—even in general terms—that it has agreed to or is negotiating the Agreement, unless the other party first provides written approval.","contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"
+"Consider Eskom's Confidentiality and Non-Disclosure Agreement; Does the document state that Confidential Information shall only include technical information?","No. Section 5’s definition makes clear that “Confidential Information” is not limited to technical material. For example:  
+• Section 5.1 covers “technical, commercial or financial information.”  
+• Section 5.2 covers “know‑how and trade secrets.”  
+• Section 5.3 covers “processes, machinery, designs, drawings, technical specifications and data relating to the Project.”  
+• Section 5.4 extends protection to third‑party information of those same types.  
+
+Thus, Confidential Information expressly includes—besides technical information—commercial, financial, know‑how, trade‑secret and other categories.","contractnli/Eskom%20Template%20Confidentiality%20and%20Non-disclosure%20Agreement%20Rev%204%20Effective%20August%202017_11.txt"

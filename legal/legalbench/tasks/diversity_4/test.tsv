@@ -1,0 +1,11 @@
+aic_is_met	answer	index	parties_are_diverse	text
+False	No	261	True	Harper is from Texas. James is from South Dakota. Henry is from Florida. Harper and James both sue Henry for defamation for $11,000.
+True	Yes	293	True	Oliver is from Kansas. Sophia is from Vermont. Ava is from North Dakota. Oliver and Sophia both sue Ava for negligence for $8,962,000.
+True	Yes	61	True	Henry is from Missouri. Evelyn is from Colorado. Benjamin is from Hawaii. Henry and Evelyn both sue Benjamin for defamation for $7,165,000.
+True	No	253	False	Charlotte is from Missouri. Lucas is from Iowa. James is from Missouri. Charlotte and Lucas both sue James for trademark infringement for $5,798,000.
+False	No	166	True	Harper is from Colorado. William is from Virginia. Charlotte is from Kansas. Harper and William both sue Charlotte for securities fraud for $31,000.
+True	Yes	26	True	Lucas is from Hawaii. Henry is from Utah. Isabella is from Delaware. Lucas and Henry both sue Isabella for copyright infringement for $1,049,000.
+True	Yes	127	True	Olivia is from Wisconsin. Emma is from Pennsylvania. Sophia is from Virginia. Olivia and Emma both sue Sophia for legal malpractice for $8,029,000.
+True	No	284	False	William is from Indiana. Harper is from California. Theodore is from California. William and Harper both sue Theodore for securities fraud for $3,317,000.
+True	No	19	False	Evelyn is from North Carolina. Henry is from New Jersey. Mia is from North Carolina. Evelyn and Henry both sue Mia for copyright infringement for $7,049,000.
+False	No	254	True	Emma is from Louisiana. Sophia is from Utah. Theodore is from Mississippi. Emma and Sophia both sue Theodore for wrongful eviction for $47,000.

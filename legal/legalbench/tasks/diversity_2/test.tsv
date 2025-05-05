@@ -1,0 +1,11 @@
+aic_is_met	answer	index	parties_are_diverse	text
+True	No	261	False	Olivia is from Texas. Noah is from Texas. Isabella is from Wyoming. Olivia sues Noah and Isabella each for negligence for $8,949,000.
+False	No	293	True	Sophia is from North Carolina. Ava is from Iowa. Amelia is from Hawaii. Sophia sues Ava and Amelia each for securities fraud for $44,000.
+False	No	61	False	Elijah is from Arizona. Oliver is from Hawaii. Theodore is from Arizona. Elijah sues Oliver and Theodore each for breach of contract for $15,000.
+True	No	253	False	Amelia is from Oklahoma. Elijah is from Virginia. Henry is from Oklahoma. Amelia sues Elijah and Henry each for negligence for $4,500,000.
+False	No	166	False	Elijah is from Iowa. James is from Missouri. Harper is from Iowa. Elijah sues James and Harper each for defamation for $19,000.
+True	Yes	26	True	Charlotte is from Missouri. Harper is from Louisiana. Mia is from South Dakota. Charlotte sues Harper and Mia each for defamation for $7,468,000.
+True	No	127	False	William is from New York. Noah is from New York. Mia is from Virginia. William sues Noah and Mia each for wrongful eviction for $8,416,000.
+True	No	284	False	James is from Utah. Lucas is from Utah. Elijah is from Illinois. James sues Lucas and Elijah each for legal malpractice for $7,950,000.
+True	No	19	False	Mia is from Arkansas. Oliver is from Texas. Amelia is from Arkansas. Mia sues Oliver and Amelia each for copyright infringement for $6,317,000.
+False	No	254	True	Mia is from Rhode Island. Oliver is from Minnesota. James is from Hawaii. Mia sues Oliver and James each for breach of contract for $44,000.
